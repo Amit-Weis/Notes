@@ -9,8 +9,7 @@ lets start with the intuitive definition
 an integral essentially represents the area under a graph
 
 a little bit more specifically, it can be thought of as an approximation of the sum of the area small rectangles under a graph, where our approximation gets more and more accurate as the rectangles get smaller and smaller
-![[Pasted image 20250224200440.png]]
-
+![](../../images/Pasted%20image%2020250224200440.png)
 
 basic geometry level, the area of one individual rectangle can be represented as $Area \ = \ Height \cdot Length$ 
 

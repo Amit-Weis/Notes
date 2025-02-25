@@ -2,5 +2,9 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "vimMode": true,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "readableLineLength": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }
