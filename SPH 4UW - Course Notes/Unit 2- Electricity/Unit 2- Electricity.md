@@ -1,5 +1,7 @@
 ## Electric Charge and Force
 
+friction force is based on electrical force, because friction is actually felt by electric force. Normal force (anti gravity force) is actually the electric force pushing up
+
 - backstory
     - when rubbing stuff, things are attracted to each other. Since stuff is counteracting gravity, a force had to be applied.
     - In ancient Greece, this force is called electric force
@@ -174,31 +176,38 @@ $$\vec E_{net} = \Sigma \vec E_n \\ \ \\ n = \text{total number of fields}$$
 	![[Pasted image 20250224100327.png]]
 
 ## Electric potential and capacitors
-- Start with two postive charges initially at rest, with $Q$ and origin and $q$ at rest. 
-	- let $Q >> q$ so the field of $q$ is negligable
-	- the field that $Q$ creates has to be counteracted by an external force $F_{ext}$ 
-	- if q is moved at a constant $v$  $|\vec{F_{ext}}| =  |\vec{F_{E}}|$ 
-	- when a **conservative** force exerts a force on an object, the work done is via displacment, not distance. 
-	- eletric field is a conservative force, meaning its not used up when exerting force
-	- if the object is being pushed against the field, the work of the field is negative, if it is being pushed towords the field, the work of the field is positve
-	- this means the internal energy is represented by the following relation:
-	$$ \Delta U_{E} = -W_{E}$$
-	- where $\Delta U_{E}$ represents the change in energy in the system
-		- if you have to push against the field ($W_E$ is negative) energy must be added
-	- if we are pushing the objject towrods origin, assuming that both have the same charge $$ \begin{gather}
-	 \Delta U_{E} = -W_{E} \\ 
-	 \Delta U_{E} = \int_{\infty}^r F_{E} \cdot dr \\
-	 	 \Delta U_{E} = \int_{\infty}^r \frac{k|Qq|}{r^2} \cdot dr \\
-∫ \frac{1}{r^2} dr=- \frac{1}{r}​ \\
-\text{integral of } \Delta U = U \\
-U = k|Qq|\left[ - \frac{1}{r} + \frac{1}{\infty}\right]
-\\
-W = k|Qq|\left[ - \frac{1}{r} \right]
-\\ W = -  \frac{k|Qq|}{r}
+- see [The Secret Calc Part of Physics](The%20Secret%20Calc%20Part%20of%20Physics.md)
+# electric potential (voltage)
+- $\Delta V = \frac{\Delta U_{E}}{q} = \frac{\frac{kQq}{r}}{q} = \frac{kQ}{r}$
+- Our study of electricity began with Coulomb's Law which calculated the electric force between two charges, Q and q. 
+-  By assuming q was a small positive charge, and dividing F by q, the electric field E due to the charge Q was defined.
+- we can do the same thing with E and V
+$$
+\Delta V = \frac{\Delta U_{E}}{q} = \frac{\frac{kQq}{r}}{q} = \frac{kQ}{r}
+$$
+- voltage tells how a charge is bending the space is around it 
+- it also tells us how much potential energy is in each cahrge
+- it will also tell us how much work/per charge it can do (since $\Delta U_E= -W_E$)
+- Up is represnting positive Voltage, and down is represnting Negative voltage
+	**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfF9DT4MD7wmhKU1qw5UfQU_2HhIfSE39Alg1aMiJfuXq_LWwpxweHms1ILymEbogjAne02Z2cPyYOBngir06v6hbNe1x1JB1Mw8SgDqR5wnyR58sbfjeEfxJbcw5gZzkWPA1VfBQ=s2048?key=x4nBD2Mcw9wgdoyjCVv3YUHC)**
+	- positive charges will fall "down" and negative charges will fall "up"
+- The SI units for voltage is $\frac{J}{C}$
+- in natural languge, its the amount of joules of energy produced per one coulomb of charge that goes through
+- AA batteries and AAA battiers both have $1.5 V$, but AA is siginfinactly bigger
+	- all this means is that the AA battery has more chemical reactants and will last longer 
+	- a battery being "$1.5 V$" just means that each electron is leaving the battery with the same eletric potential
+- we can rearrange the equation to find (look at ) $$ W_{ext} = \Delta U_{E} = q\Delta V$$
 
+-  if multiple charges are involved:
+$$
 
-\end{gather}$$
-testing
+\begin{gather}
+V_{net} = k \Sigma\frac{ Q}{r}
 
+\\ \\
+(V_{net} = V_{1} + V_{2}+ V_{3} \text{ etc...})
 
-friction force is based on electrical force, because friction is actually felt by electric force. Normal force (anti gravity force) is actually the electric force pushing up
+\end{gather}
+
+$$
+- 
