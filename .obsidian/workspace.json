@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Unit 2- Electricity"
             }
+          },
+          {
+            "id": "881961e26c073860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPH 4UW - Course Notes/Unit 2- Electricity/The Secret Calc Part of Physics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Secret Calc Part of Physics"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPH 4UW - Course Notes/Unit 2- Electricity/Unit 2- Electricity.md",
+                "file": "SPH 4UW - Course Notes/Unit 2- Electricity/The Secret Calc Part of Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unit 2- Electricity"
+              "title": "Backlinks for The Secret Calc Part of Physics"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPH 4UW - Course Notes/Unit 2- Electricity/Unit 2- Electricity.md",
+                "file": "SPH 4UW - Course Notes/Unit 2- Electricity/The Secret Calc Part of Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unit 2- Electricity"
+              "title": "Outgoing links from The Secret Calc Part of Physics"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPH 4UW - Course Notes/Unit 2- Electricity/Unit 2- Electricity.md",
+                "file": "SPH 4UW - Course Notes/Unit 2- Electricity/The Secret Calc Part of Physics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 2- Electricity"
+              "title": "Outline of The Secret Calc Part of Physics"
             }
           },
           {
@@ -192,25 +207,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d3f25fb9f74c60b",
+  "active": "881961e26c073860",
   "lastOpenFiles": [
-    "Pasted image 20250224121309.png",
-    "SPH 4UW - Course Notes/SPH 4UW - Course Notes.md",
     "SPH 4UW - Course Notes/Unit 2- Electricity/Unit 2- Electricity.md",
+    "images/image 10.png",
+    "SPH 4UW - Course Notes/Unit 2- Electricity/The Secret Calc Part of Physics.md",
+    "images/Pasted image 20250224200440.png",
+    "image.png.crswap",
+    "images/Pasted image 20250224192636.png",
+    "images/Pasted image 20250224190451.png",
+    "images/Pasted image 20250224185115.png",
+    "images/Pasted image 20250224185040.png",
+    "images/Pasted image 20250224184425.png",
+    "images/Pasted image 20250224184300.png",
+    "images/integrals-1627571035(2).png",
+    "images/Pasted image 20250224121309.png",
+    "SPH 4UW - Course Notes/SPH 4UW - Course Notes.md",
     "SPH 4UW - Course Notes/Unit 1- Thermodynamics/Unit 1- Thermodynamics.md",
-    "images/image.png",
     "images",
-    "images/Pasted image 20250224100327.png",
-    "images/Pasted image 20250224100254.png",
     "Getting Started.md",
     "2025-02-24.md",
-    "images/image 9 2.png",
-    "images/image 8 2.png",
-    "images/image 7 2.png",
-    "images/image 6 2.png",
-    "images/image 5 2.png",
-    "images/image 4 2.png",
-    "images/image 3 2.png",
     "Monthly Budget/Expenses (Monthly)/Dinner with Rachel.md",
     "Monthly Budget/Expenses (Monthly)/Groceries.md",
     "Monthly Budget/Expenses (Monthly)/Rent.md",

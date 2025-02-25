@@ -86,7 +86,7 @@ A = m^2$$
     
     - we can find $\Delta p$ by analyzing an ideal gas collision:
         
-        ![[image.png]]
+        ![[image 10.png]]
         
         - The momentum change is limited to $\Delta p_x$
         - since all collisions are elastic:
