@@ -23,10 +23,11 @@
 </header>
 <h1 id="intro">Intro</h1>
 <p>today in class, teacher jesse was like “yo <span class="math inline">\(U = \frac{kQq}{r}\)</span>” and then was like “dont flipping worry about why thats too complicated”</p>
-<p>if you are like me and thats stupid and dumb, here is every single concept you need to know to understand the proof for <span class="math inline">\(U = \frac{kQq}{r}\)</span> explained by me :) # Integrals</p>
+<p>if you are like me and thats stupid and dumb, here is every single concept you need to know to understand the proof for <span class="math inline">\(U = \frac{kQq}{r}\)</span> explained by me :)</p>
+<h1> Integrals </h1> 
 <p>lets start with the intuitive definition</p>
 <p>an integral essentially represents the area under a graph</p>
-<p>a little bit more specifically, it can be thought of as an approximation of the sum of the area small rectangles under a graph, where our approximation gets more and more accurate as the rectangles get smaller and smaller <img src="images/Pasted%20image%2020250224200440.png" /></p>
+<p>a little bit more specifically, it can be thought of as an approximation of the sum of the area small rectangles under a graph, where our approximation gets more and more accurate as the rectangles get smaller and smaller <img src="images/first.png" /></p>
 <p>basic geometry level, the area of one individual rectangle can be represented as <span class="math inline">\(Area \ = \ Height \cdot Length\)</span></p>
 <p>note: <span class="math inline">\(dx\)</span> means a small change in <span class="math inline">\(x\)</span> Due to our approximations, were assuming <span class="math inline">\(f(x)\)</span> remains constant over <span class="math inline">\(dx\)</span>, to form a nice even rectangle, therefore the area in terms of our function is: <span class="math inline">\(Area = F(x) \cdot x\)</span></p>
 <p>in more formal terms, <span class="math inline">\(dx\)</span> causes a change in <span class="math inline">\(Area\)</span>, represented as <span class="math inline">\(dArea\)</span> $$<span class="math display">\[\begin{gather}
@@ -39,14 +40,16 @@
 \end{gather}\]</span> $$</p>
 <p>Finding the integral, in practice, is just finding the opposite of the derivative, or the antiderivative Finding the antiderivative is just finding <span class="math inline">\(g(x)\)</span> where <span class="math inline">\(g\prime (x) = f(x)\)</span>, and is mostly done by inspection (like factoring)</p>
 <p>Example: <span class="math inline">\(x^2\)</span> is the integral or antiderivative of <span class="math inline">\(2x\)</span></p>
-<p>additionally, if we want the area over just a small segment of the graph, we can do something called a definite integral as shown below: <img src="images/image 10.png" /></p>
+<p>additionally, if we want the area over just a small segment of the graph, we can do something called a definite integral as shown below:  <br \> 
+  <img src="images/second.png" /></p>
 <p>lets define <span class="math inline">\(q(x)\)</span> as the antiderivative or integral of the above function <span class="math inline">\(f(x)\)</span> remember <span class="math inline">\(q(x)\)</span> = a running total of the area from <span class="math inline">\(0 \to x\)</span></p>
 <p>therefore to get the area contained in <span class="math inline">\(a \to b\)</span> you need to do <span class="math inline">\(q(b) - q(a)\)</span>, which means: <span class="math display">\[
 \int^b_{a}f(x) dx = q(b) - q(a) 
-\]</span> # Why do we care + Work</p>
-<p>As we learned last year in physics, work is the force <span class="math inline">\(\vec F\)</span> done over distance <span class="math inline">\(x\)</span>, which is all well and good for graphs like the one below, where calculating the work done is a simple area calculation.<br />  <img src="images/Pasted%20image%2020250224184300.png" /></p>
+\]</span></p>
+<h1>Why do we care + Work</h1>
+<p>As we learned last year in physics, work is the force <span class="math inline">\(\vec F\)</span> done over distance <span class="math inline">\(x\)</span>, which is all well and good for graphs like the one below, where calculating the work done is a simple area calculation.<br />  <img src="images/third.png" /></p>
 <p>But… what happens when you need to calculate the work done for the following Force over distance graph: <br />
-  <img src="images/Pasted%20image%2020250224184425.png" style="max-width: 700px; height: auto;" />
+  <img src="images/fourtgh.png" style="max-width: 700px; height: auto;" />
 <p>we need definite Integrals!!!!!</p>
 <p>So, we can represent work as such:</p>
 <p><span class="math display">\[\begin{gather}
@@ -67,7 +70,7 @@ W = \int^{x_{2}}_{x_{1}} \vec{ F_{E}} \cdot dx
 </ol>
 <h1 id="finally-back-to-electric-potential-energy">Finally back to Electric Potential Energy</h1>
 <p>now we know everything to prove that <span class="math inline">\(U_{E} =\frac{kQq}{r}\)</span> lets say we have charge <span class="math inline">\(Q\)</span> which is <strong>Positive</strong> and charge <span class="math inline">\(q\)</span> which is <strong>Negative</strong> <br />
-  <img src="images/Pasted%20image%2020250224190451.png" /></p>
+  <img src="images/fit.png" /></p>
 <p><span class="math inline">\(q\)</span> will be attracted to <span class="math inline">\(Q\)</span>, and therefore the Electric Field of <span class="math inline">\(Q\)</span> is doing <strong>Positive</strong> work on <span class="math inline">\(q\)</span></p>
 <p>Assuming this is an isolated system, the kinetic energy gained <span class="math inline">\(q\)</span>’s must be from <span class="math inline">\(q\)</span>’s potential energy</p>
 <p>this means that <span class="math inline">\(q\)</span>’s potential energy <span class="math inline">\(U_E\)</span>, decreases by the work done by the Field <span class="math inline">\(W_E\)</span> <span class="math display"> and therefore: 
