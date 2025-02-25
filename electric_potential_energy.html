@@ -26,35 +26,36 @@
 <p>if you are like me and thats stupid and dumb, here is every single concept you need to know to understand the proof for <span class="math inline">\(U = \frac{kQq}{r}\)</span> explained by me :) # Integrals</p>
 <p>lets start with the intuitive definition</p>
 <p>an integral essentially represents the area under a graph</p>
-<p>a little bit more specifically, it can be thought of as an approximation of the sum of the area small rectangles under a graph, where our approximation gets more and more accurate as the rectangles get smaller and smaller <img src="../../images/Pasted%20image%2020250224200440.png" /></p>
+<p>a little bit more specifically, it can be thought of as an approximation of the sum of the area small rectangles under a graph, where our approximation gets more and more accurate as the rectangles get smaller and smaller <img src="images/Pasted%20image%2020250224200440.png" /></p>
 <p>basic geometry level, the area of one individual rectangle can be represented as <span class="math inline">\(Area \ = \ Height \cdot Length\)</span></p>
 <p>note: <span class="math inline">\(dx\)</span> means a small change in <span class="math inline">\(x\)</span> Due to our approximations, were assuming <span class="math inline">\(f(x)\)</span> remains constant over <span class="math inline">\(dx\)</span>, to form a nice even rectangle, therefore the area in terms of our function is: <span class="math inline">\(Area = F(x) \cdot x\)</span></p>
 <p>in more formal terms, <span class="math inline">\(dx\)</span> causes a change in <span class="math inline">\(Area\)</span>, represented as <span class="math inline">\(dArea\)</span> $$<span class="math display">\[\begin{gather}
-\therefore dArea = f(x) \cdot dx \\
+\therefore dArea = f(x) \cdot dx \\ 
 \text{Rearranging we can find:}  \\
 
-\frac{dArea}{dx} = f(x)  \\
- \\
+\frac{dArea}{dx} = f(x)  \\ 
+ \\ 
 \text{this means that the DERIVATIVE of the function that represents  area is actually } f(x)!
 \end{gather}\]</span> $$</p>
 <p>Finding the integral, in practice, is just finding the opposite of the derivative, or the antiderivative Finding the antiderivative is just finding <span class="math inline">\(g(x)\)</span> where <span class="math inline">\(g\prime (x) = f(x)\)</span>, and is mostly done by inspection (like factoring)</p>
 <p>Example: <span class="math inline">\(x^2\)</span> is the integral or antiderivative of <span class="math inline">\(2x\)</span></p>
-<p>additionally, if we want the area over just a small segment of the graph, we can do something called a definite integral as shown below: [[image 10.png]]</p>
+<p>additionally, if we want the area over just a small segment of the graph, we can do something called a definite integral as shown below: <img src="images/image 10.png" /></p>
 <p>lets define <span class="math inline">\(q(x)\)</span> as the antiderivative or integral of the above function <span class="math inline">\(f(x)\)</span> remember <span class="math inline">\(q(x)\)</span> = a running total of the area from <span class="math inline">\(0 \to x\)</span></p>
 <p>therefore to get the area contained in <span class="math inline">\(a \to b\)</span> you need to do <span class="math inline">\(q(b) - q(a)\)</span>, which means: <span class="math display">\[
 \int^b_{a}f(x) dx = q(b) - q(a) 
 \]</span> # Why do we care + Work</p>
-<p>As we learned last year in physics, work is the force <span class="math inline">\(\vec F\)</span> done over distance <span class="math inline">\(x\)</span>, which is all well and good for graphs like the one below, where calculating the work done is a simple area calculation. [[Pasted image 20250224184300.png]]</p>
-<p>But… what happens when you need to calculate the work done for the following Force over distance graph:[[Pasted image 20250224184425.png]]</p>
+<p>As we learned last year in physics, work is the force <span class="math inline">\(\vec F\)</span> done over distance <span class="math inline">\(x\)</span>, which is all well and good for graphs like the one below, where calculating the work done is a simple area calculation.<br />  <img src="images/Pasted%20image%2020250224184300.png" /></p>
+<p>But… what happens when you need to calculate the work done for the following Force over distance graph: <br />
+  <img src="images/Pasted%20image%2020250224184425.png" style="max-width: 700px; height: auto;" />
 <p>we need definite Integrals!!!!!</p>
 <p>So, we can represent work as such:</p>
 <p><span class="math display">\[\begin{gather}
-distance = x
-\\
-x_{2} = \text{ final distance}
-\\
-x_{1} = \text{intial distance}
-\\
+distance = x 
+\\ 
+x_{2} = \text{ final distance} 
+\\ 
+x_{1} = \text{intial distance} 
+\\ 
 W = \int^{x_{2}}_{x_{1}} \vec{ F_{E}} \cdot dx
 \end{gather}  \]</span> recall (i forgot this while writing this, and thought it might be helpful for yall):</p>
 <p>In physics, energy is conserved unless external forces do work.</p>
@@ -65,40 +66,39 @@ W = \int^{x_{2}}_{x_{1}} \vec{ F_{E}} \cdot dx
 <li>Changing potential energy</li>
 </ol>
 <h1 id="finally-back-to-electric-potential-energy">Finally back to Electric Potential Energy</h1>
-<p>now we know everything to prove that <span class="math inline">\(U_{E} =\frac{kQq}{r}\)</span> lets say we have charge <span class="math inline">\(Q\)</span> which is <strong>Positive</strong> and charge <span class="math inline">\(q\)</span> which is <strong>Negative</strong> [[Pasted image 20250224190451.png]]</p>
+<p>now we know everything to prove that <span class="math inline">\(U_{E} =\frac{kQq}{r}\)</span> lets say we have charge <span class="math inline">\(Q\)</span> which is <strong>Positive</strong> and charge <span class="math inline">\(q\)</span> which is <strong>Negative</strong> <br />
+  <img src="images/Pasted%20image%2020250224190451.png" /></p>
 <p><span class="math inline">\(q\)</span> will be attracted to <span class="math inline">\(Q\)</span>, and therefore the Electric Field of <span class="math inline">\(Q\)</span> is doing <strong>Positive</strong> work on <span class="math inline">\(q\)</span></p>
 <p>Assuming this is an isolated system, the kinetic energy gained <span class="math inline">\(q\)</span>’s must be from <span class="math inline">\(q\)</span>’s potential energy</p>
-<p>this means that <span class="math inline">\(q\)</span>’s potential energy <span class="math inline">\(U_E\)</span>, decreases by the work done by the Field <span class="math inline">\(W_E\)</span> <span class="math display">\[ 
-\therefore \Delta U_{E} = -W_{E}
-\]</span></p>
-<p><span class="math display">\[
-\begin{gather}
-\Delta U_{E} = -W_{E}  \\
-\text{From above we know that: } W = \int_{x_{1}}^{x_{2}} F \cdot dx\\
-\text{ but since we are working in terms of r and electric feilds:} \\
-W_{E} = \int_{r_{1}}^{r_{2}} F \cdot dr\\
-\Delta U_{E} = -\int_{r_{1}}^{r_{2}} F_{E} \cdot dr  \\
-\Delta U_{E} = -\int_{r_{1}}^{r_{2}}\frac{kQq}{r^2} \cdot dr  \\
-\Delta U_{E} = -\int_ {r_{1}}^{r_{2}}kQqr^{-2} \cdot dr  \\
-\text{ since kQq is constant, sub it in as Z}  \\
-\Delta U_{E} = -\int_{r_{1}}^{r_{2}} Zr^{-2} \cdot dr  \\
-\text{ what is the anti derivative of } Zr^{-2} \text{ ?}  \\
-\text{well the derivative of } -Zr^{-1} = Zr^{-2} \text{ so the anti derivative of } Zr^{-2} = -Zr^{-1}  \\
-\Delta U_{E} = - \int_{r_{{1}}}^{r_{2}} Zr^{-2} \cdot dr  \\
-\Delta U_{E} = - (Zr_{2}^{-1} - Zr_{1}^{-1}) \\
-\Delta U_{E} = - \left( \frac{Z}{r_{2}} - \frac{Z}{r_{1}} \right)  \\
-\text{ sub in Z = kQq}  \\
-\Delta U_{E} = - \left(  -\frac{kQq}{r_{2}} - -\frac{kQq}{r_{1}} \right)  \\ \\
-\Delta U_{E} = U_{2} - U_{1} = - \left(  -\frac{kQq}{r_{2}} + \frac{kQq}{r_{1}} \right)  \\ 
-\text{By definition, } U_{2} = 0 \text{ and } r_{2} = \infty
- \\
-  \\
-\therefore
-0 - U_{1} =   \left(  -\frac{kQq}{\infty} + \frac{kQq}{r_{1}} \right)  \\ 
-\frac{\text{anything} }{\infty} = 0 \\
--U_{1} = -(\frac{kQq}{r_{1}}) \\
-U_{1} = \frac{qQq}{r_{1}}
-\end{gather}
-\]</span> this took me ~3 hours to make/learn, hope this helped! -A</p>
-</body>
-</html>
+<p>this means that <span class="math inline">\(q\)</span>’s potential energy <span class="math inline">\(U_E\)</span>, decreases by the work done by the Field <span class="math inline">\(W_E\)</span> <span class="math display"> and therefore: 
+  <p><span class="math display">\[
+    \begin{gather}
+    \Delta U_{E} = -W_{E}  \\
+    \text{From above we know that: } W = \int_{x_{1}}^{x_{2}} F \cdot dx\\
+    \text{ but since we are working in terms of r and electric feilds:} \\
+    W_{E} = \int_{r_{1}}^{r_{2}} F \cdot dr\\
+    \Delta U_{E} = -\int_{r_{1}}^{r_{2}} F_{E} \cdot dr  \\
+    \Delta U_{E} = -\int_{r_{1}}^{r_{2}}\frac{kQq}{r^2} \cdot dr  \\
+    \Delta U_{E} = -\int_ {r_{1}}^{r_{2}}kQqr^{-2} \cdot dr  \\
+    \text{ since kQq is constant, sub it in as Z}  \\
+    \Delta U_{E} = -\int_{r_{1}}^{r_{2}} Zr^{-2} \cdot dr  \\
+    \text{ what is the anti derivative of } Zr^{-2} \text{ ?}  \\
+    \text{well the derivative of } -Zr^{-1} = Zr^{-2} \text{ so the anti derivative of } Zr^{-2} = -Zr^{-1}  \\
+    \Delta U_{E} = - \int_{r_{{1}}}^{r_{2}} Zr^{-2} \cdot dr  \\
+    \Delta U_{E} = - (Zr_{2}^{-1} - Zr_{1}^{-1}) \\
+    \Delta U_{E} = - \left( \frac{Z}{r_{2}} - \frac{Z}{r_{1}} \right)  \\
+    \text{ sub in Z = kQq}  \\
+    \Delta U_{E} = - \left(  -\frac{kQq}{r_{2}} - -\frac{kQq}{r_{1}} \right)  \\ \\
+    \Delta U_{E} = U_{2} - U_{1} = - \left(  -\frac{kQq}{r_{2}} + \frac{kQq}{r_{1}} \right)  \\ 
+    \text{By definition, } U_{2} = 0 \text{ and } r_{2} = \infty
+     \\
+      \\
+    \therefore
+    0 - U_{1} =   \left(  -\frac{kQq}{\infty} + \frac{kQq}{r_{1}} \right)  \\ 
+    \frac{\text{anything} }{\infty} = 0 \\
+    -U_{1} = -(\frac{kQq}{r_{1}}) \\
+    U_{1} = \frac{qQq}{r_{1}}
+    \end{gather}
+    \]</span> this took me ~3 hours to learn and another hour to make, hope this helped! -A</p>
+    </body>
+    </html>
