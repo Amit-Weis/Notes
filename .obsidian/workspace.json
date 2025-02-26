@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 200
   },
   "right": {
     "id": "eb0e7e231b134ec1",
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,6 +208,7 @@
   },
   "active": "3d3f25fb9f74c60b",
   "lastOpenFiles": [
+    "images/Pasted image 20250226163336.png",
     "SPH 4UW - Course Notes/Unit 2- Electricity/The Secret Calc Part of Physics.md",
     "SPH 4UW - Course Notes/Unit 2- Electricity/Unit 2- Electricity.md",
     "images/fit.png",
