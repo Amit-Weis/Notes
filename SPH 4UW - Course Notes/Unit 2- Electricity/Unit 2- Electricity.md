@@ -256,3 +256,65 @@ V = \frac{kQ}{r}
 
 \end{gather}
 $$
+## Capacitance and Capacitors 
+- "arcing" means there is enough energy to make air a conductor 
+- simplestv version o fa capcaitor is the parallel plate capacitor 
+- diagrams make the plates look far apart,  but its very close
+- when a battery is conncted the charge moves between them, every electron that moves to the negative plate leavs a positve ion behind 
+- the plates have equal magniutdes of charge. but one is postive and the other is negative
+- this generates a uniform eletric field (sorta)
+- the reason its bassicly uniform, is beause the distance between the plates is so small compared to the surface area 
+- a caitcotr can store a ceritain amount of charge for a given voltage, this is called capacitance, $C$
+- by defintion 
+- $\Delta V=\frac{Q}{C}$
+- $C = \frac{Q}{\Delta V}$
+- SI unit is Farad $F$, or $C/V$
+- $C \propto \text{ Area of Plate}$ and $C \propto \text{Distance Between Plates}$
+- to calcualte $C$ based on the area of plate and the distance between plates we need a constant
+- the constant is the permittivity of free space
+$$
+\begin{gather} \\
+\epsilon =
+8.85 \times 10^{-12} \frac{C^{2}}{Nm^{2}}\\
+\therefore \\
+C = \frac{\epsilon A}{d}
+\end{gather}
+$$
+- the charge will forver hold charge
+- $V$ will linearly decrease/increase (because its a quasi uniform eletric field )
+	-![](../../images/Pasted%20image%2020250227101454.png)
+- the first time you move  a charge, there is zero work, since there is no diff in voltage
+- however, every subsequent electron will be doing a little bit more work each time
+- since its a linear relation, the average will be $\frac{1}{2}e\Delta V$
+- to find the amount of work required to charge a capicator a charge of $Q$ 
+$$
+W = \frac{1}{2}Q\Delta V
+$$
+- since the work done is that, the potential to do work in the future is also
+$$
+U_{E} = \frac{1}{2}Q\Delta V
+$$
+- you can also find
+$$
+U_{E} = \frac{1}{2} \frac{{Q^{2}}}{C}
+$$
+- and 
+$$
+U_{E} = \frac{1}{2} C(\Delta V)^{2}
+$$
+## Dielectrics
+- capacatinace can be increased by inserting a dielectric an insulator into the gap
+	- ![](../../images/Pasted%20image%2020250227103628.png)
+- the additiaonl eletric field generaated by the additional increases the efficeinacny of the capicator 
+- the dielectric is orignally nuetral, but becomes poliraized when charged 
+- the reason the dielectric is usefull is because you can make the disntance beteween the plates realy small, and not have to worry about arcing 
+- every material has a dielectric constant $\kappa$ 
+- therefore the capacitance becomes 
+$$
+\begin{gather} \\
+
+C = \frac{\kappa\epsilon A}{d}
+
+\end{gather}
+$$
+- 
