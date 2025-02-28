@@ -317,4 +317,5 @@ C = \frac{\kappa\epsilon A}{d}
 
 \end{gather}
 $$
-- 
+q = point charge
+Q = uniform electric fields
