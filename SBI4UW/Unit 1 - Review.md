@@ -202,6 +202,8 @@
 		- glycolipids, a carbohydrate attached to a lipid
 	- they are cellular markers for the immune system to recognize the cell as part of the human body and good
 
+
+
 ## Transportation across the membrane
 
 - oxygen and carbon dioxide can move through the cell membrane via passive diffusion
@@ -248,7 +250,8 @@
 			- two main types
 				- leak channels are always open
 				- gated channels are only opened via stimulus 
-	- 
+
+
 # Lab Summaries
 
 

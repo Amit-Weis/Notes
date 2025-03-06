@@ -58,7 +58,7 @@ friction force is based on electrical force, because friction is actually felt b
 ## electroscope
 
 - a thing is charged, then its parts repel cuz they have the same charge.
-- ![[image 2 2.png|image 2 2.png]]
+	- ![[image 2 2.png|image 2 2.png]]
     
 - if the electrode is grounded, it can also be done via induction
     
@@ -71,24 +71,20 @@ friction force is based on electrical force, because friction is actually felt b
 - the electric force between two charges depends on the inverse square of the distance between them:
     
     ![[image 4 2.png|image 4 2.png]]
-    
+	    
 
-$$\vec F_E \propto \frac{1}{r^2}$$
+	$$\vec F_E \propto \frac{1}{r^2}$$
 
 - the magnitude of electrical force is
 
-$$\begin{aligned}
-| \vec F_E| = \frac{|q_1q_2|}{4\pi\epsilon _0 r^2} \\ \ \\  
-4 \pi \epsilon_0 = constant  
-\\ q = charge \\ r = distance
-\end{aligned}$$
+	- $$\begin{aligned} | \vec F_E| = \frac{|q_1q_2|}{4\pi\epsilon _0 r^2} \\ \ \\   4 \pi \epsilon_0 = constant \\ q = charge \\ r = distance \end{aligned}$$
 
 - $\epsilon$ represents the electric permittivity
     - which is the measure of resistance to the propagation of an electric field. The electric permittivity of a vacuum has a special value, which is a constant.
     - this value is: $8.85 \times 10^{-12} \frac{C^2}{N\cdot m^2}$
 - usually $\frac{1}{4\pi\epsilon _0}$ is replaced with $k$ to make the following expression for electrical force
 
-$$|\vec F_E| = \frac{|kQq|}{r^2} \\ \ \\ k = 9.0 \times 10 ^9 \frac{N\cdot m^2}{C^2}$$
+	- $$|\vec F_E| = \frac{|kQq|}{r^2} \\ \ \\ k = 9.0 \times 10 ^9 \frac{N\cdot m^2}{C^2}$$
 
 ## Superimposition of Electrical Forces
 

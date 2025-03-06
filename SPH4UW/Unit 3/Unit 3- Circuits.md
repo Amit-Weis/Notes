@@ -26,7 +26,7 @@
 	- only works in series
 	- very little close to 0 resistance 
 	- will blow up in parrelele circuits due to fuck all
-### conductors
+### Conductors
 - some conductors conduct better, because they have less conductors
 - rasihing the resisitance in a curuitc reduceds the current, however this relahisnship is linear in ohmic mateirles, if the realshinship is not linear, it is a non ohmic matierla
 - you want things to be ohmic because it makes predciting thier behaivbour much easier
