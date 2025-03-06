@@ -254,9 +254,10 @@
 
 # Lab Summaries
 
-
+- Macromolecule soltuions 
 # Review Questions
 
 - 
 # Reminders 
-
+- Fluid mosiac, fluid because of cholestral and the kinks in the fatty acids 
+- 
