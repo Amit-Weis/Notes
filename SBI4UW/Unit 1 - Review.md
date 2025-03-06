@@ -234,12 +234,12 @@
 - two main types of activators
 	- cofactors
 		- small not organic compounds 
-		- attach to sections of the protien to activate it
+		- attach to sections of the protein to activate it
 	- coenzymes
-		- small orgnaic compounds
-		- atttach to sections of the protien to actiavet 
+		- small organic compounds
+		- attach to sections of the protein to activate 
 - fluid outside of cell is called interstitial fluid
-- faciliated diffusion 
+- facilitated diffusion 
 	- small and charged/polar molecucles cannot pass through the mebrane on thier own
 	- instead they must pass through a channel protein or aquaporine or equivlulent 
 	- two types of facilliated diffusion
