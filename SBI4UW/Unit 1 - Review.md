@@ -224,10 +224,31 @@
 	- phagocytosis
 		- fusing with the lysosome for the digestion of solid goods
 	- pinocytosis
-		- drinking the extracellular fluid to gain the electrolytes
+		- drinking the interstitial fluid to gain the electrolytes
 	- receptor mediated endocytosis
 		- will only eat stuff after certain receptor molecules (carbohydrates) have bonded with certain molecules
 - exocytosis is always done via vesicles 
+- most enzymes must be activated before they can function
+- two main types of activators
+	- cofactors
+		- small not organic compounds 
+		- attach to sections of the protien to activate it
+	- coenzymes
+		- small orgnaic compounds
+		- atttach to sections of the protien to actiavet 
+- fluid outside of cell is called interstitial fluid
+- faciliated diffusion 
+	- small and charged/polar molecucles cannot pass through the mebrane on thier own
+	- instead they must pass through a channel protein or aquaporine or equivlulent 
+	- two types of facilliated diffusion
+		- carrier mediated 
+			- carrier protien carries it through the cell membrane by changing shape (think automatic pump situation)
+		- channel mediated 
+			- a channel lets things through the cell membrane
+			- two main types
+				- leak channels are always open
+				- gated channels are only opened via stimulus 
+	- 
 # Lab Summaries
 
 

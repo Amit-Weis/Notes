@@ -1,4 +1,7 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "accentColor": "#79dca4"
+  "cssTheme": "Minimal",
+  "accentColor": "#79dca4",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "nativeMenus": false
 }
