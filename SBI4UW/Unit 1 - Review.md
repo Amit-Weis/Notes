@@ -11,22 +11,22 @@
 	- Insulates the liquid below the ice, so that living organisms can still survive below the surface in frozen temperatures
 - High heat capacity
 	- Requires a lot of energy to cause a teeny tiny change in temperature 
-	- The high heat capicity maintins the stable enviroment even though tempearutere may change drasitcally 
-	- the stable envoriment produced is good for aquauctic and land animals
-	- the stable envoriment is also good for the biochemical reactions inisde cells
+	- The high heat capacity maintains the stable environment even though temperature may change drastically 
+	- the stable environment produced is good for aquatic and land animals
+	- the stable environment is also good for the biochemical reactions inside cells
 - High heat of Vapourization 
-	- used for cooling down plants, as it allows organimsims to pass off eerngy into water, and have it evoperate away from the body
+	- used for cooling down plants, as it allows organisms to pass off energy into water, and have it evaporate away from the body
 	- also effective in cooling plants via transpiration on the leaves
 - Strong solvent
-- High cohesion and surface tesnions
+- High cohesion and surface tensions
 	- allows for transportation down capillary tubes or up xylem
 
 ## Carbohydrates
 - Most hexose carbohydrates live in the ratio of $(CH_{2}O)_{2}$
 - Functions
 	- Base form of organic energy
-	- Large polysaccerides can be used for long term storage
-	- Large polysaccherides can be used for strucutreal compononets (IE: cell wall and chitin)
+	- Large polysaccharides can be used for long term storage
+	- Large polysaccharides can be used for structural components (IE: cell wall and chitin)
 - Monosaccharides
 	- quick energy
 	- main 3 are glucose, fructose, galactose
@@ -36,10 +36,10 @@
 	- will bond during a condensation reaction to form "glycosidic bonds"
 - Polysaccharides
 	- Formed when many monosaccharides link up to form a long chain 
-	- ideal for storing energy long term, as theu are easily borken and then built up again
+	- ideal for storing energy long term, as they are easily broken and then built up again
 	- common examples include starch, glycogen, amylose, amylopectin and cellulose 
 	- ![](../images/carbohydratetypes.png)
-	- any straight chains made up of $\alpha$-glucose are formed from 1-4glycosidc bonds, and any branches are formed initally by a 1-6 glycosidc bond
+	- any straight chains made up of $\alpha$-glucose are formed from 1-glycosidic bonds, and any branches are formed initially by a 1-6 glycosidic bond
 	- glycogen
 		- insoluble
 		- very branched
@@ -52,7 +52,7 @@
 		- hard to break down
 		- ![](../images/amylose.png)
 	- Amylopectin
-		- branched strucutre 
+		- branched structure 
 		- can be broken down much more rapidly
 		- ![](../images/amylopectin.png)
 	- Cellulose
@@ -62,81 +62,172 @@
 	- chitin
 		- just cellulose but also has nitrogen in the monomer 
 ## Proteins
-- found everywhere in body, but some examples include: nails, hair, muscles, hormones, enzymes, channels, blood, etc...
-- Protiens are very large macromolecules and are made of long chains of amino acids
+- found everywhere in the body, but some examples include: nails, hair, muscles, hormones, enzymes, channels, blood, etc...
+- Proteins are very large macromolecules and are made of long chains of amino acids
 - Amino acids
 	- ![](../images/amino%20acids.png)
-	- there are 20 uniuqe amino acids needed to make all the proteins humans need
+	- there are 20 unique amino acids needed to make all the proteins humans need
 	- 9 of them are not produced in the body, meaning they are essential and therefore must be eaten
-	- will form togeteher via peptide bonds into polypeptides (protiens)
+	- will form together by peptide bonds into polypeptides (proteins)
 	- two amino acids is a dipeptide, and three + is a polypeptide
-	- you can break down polypeptides in hydrolyssis reactions
+	- you can break down polypeptides in hydrolysis reactions
 - almost every protein we deal with will start its chain with methionine
-- a polypeptide is not a protien, as there are 4 levels to protien structure
+- a polypeptide is not a protein, as there are 4 levels to protein structure
 	- ![](../images/protien%20structure.png)
-	- the $\alpha$-helices and the $\beta$-sheets are formed via hydrogen bonds (dont let banit fool you)
-- protiens get thier function from thier shape (think enzymes)
-- an example of protien shape affecting things is sickle cell anaemia, which causes the hemoglobin in blood cells to cause them to deform
-- this loss of shape is called protien denaturation
-- the point of a high fever is to attempt to denature the protiens in the bacteria infecting us, but it may also just denature our own enzymes 
+	- the $\alpha$-helices and the $\beta$-sheets are formed via hydrogen bonds (don't let banit fool you)
+- proteins get their function from their shape (think enzymes)
+- an example of protein shape affecting things is sickle cell anaemia, which causes the hemoglobin in blood cells to cause them to deform
+- this loss of shape is called protein denaturation
+- the point of a high fever is to attempt to denature the proteins in the bacteria infecting us, but it may also just denature our own enzymes 
 ## Lipids
 - Function
 	- Storage of energy
 	- insulation (blubber)
 	- more energy rich than carbohydrates 
 	- in cell membranes 
-	- provides strucutre everywhere
+	- provides structure everywhere
 - Fats and oils are a group of lipids which are generally triglycerides
-- triglycerides are made from one glycerol moleucle and three other things
+- triglycerides are made from one glycerol molecule and three other things
 	- ![](../images/glycerol.png)
-- condensation reactions form ester linkages inbetween the glycerol and its fatty acid chains
-- phsopholipids are triglyeecireds but they just have a phospahte group as well instead of a third fatty acid
-	- this causes the uniuqe proeprty of being both hydrophillic and hydrophobic at the same time
-- Saturated fats are solid at room temprature and are mostly present in animal fats 
-- unsatuerated fats are liquid at room temperature and are present in plant fats
-- steriods are a type of lipd, and are signanlling moleucles 
-	- we only care about idenitifying steriods by the fact they have 4 carbon rings
+- condensation reactions form ester linkages in between the glycerol and its fatty acid chains
+- phospholipids are triglycerides but they just have a phosphate group as well instead of a third fatty acid
+	- this causes the unique property of being both hydrophilic and hydrophobic at the same time
+- Saturated fats are solid at room temperature and are mostly present in animal fats 
+- unsaturated fats are liquid at room temperature and are present in plant fats
+- steroids are a type of lipid, and are signaling molecules 
+	- we only care about identifying steroids by the fact they have 4 carbon rings
 - waxes are a type of lipid which are just very long chains of fatty acids 
-	- waxes are often waterproof and act as a barrior
+	- waxes are often waterproof and act as a barrier
 ## Nucleic Acids
-- DNA & RNA, deoxyriboneculiec acid and ribonucliec acid
+- DNA & RNA, deoxyribonucleic acid and ribonucleic acid
 - heredity and genes
 - DNA and RNA are made up of repeating nucleotides 
 - nucleotides are each made up of :
 	- Deoxyribose (dna) or ribose (rna)
-	- phospahe group
+	- phosphate group
 	- nitrogenous base
 		- guanine (Purine)
 		- cytosine (Pyrimidines)
 		- adenine (Purine)
 		- thymine (DNA only) (Pyrimidines)
 		- uracil (RNA only) (Pyrimidines)
-- 1-5 phosphdiester bonds make up the nuclteatide chains
-- nitrogonues base and the ribose sugar form glyclsoicd bonds 
+- 1-5 phosphodiester bonds make up the nucleotide chains
+- nitrogenous base and the ribose sugar form glycosidic bonds 
 
 ## Enzymes 
-- biological catyalysts 
-	- spered up reactions by lowering activation ererngy 
-	- are notused up during reactions
+- biological catalysts 
+	- speed up reactions by lowering activation energy 
+	- are not used up during reactions
 - Anabolic reactions 
-	- are when you build new chemcials and add energy to the commpounds
+	- are when you build new chemicals and add energy to the compounds
 	- synthesis 
 	- small to big
-- catabolic reactiosn 
-	- are when you break substances down and release erngy from breaking bonds
+- catabolic reaction 
+	- are when you break substances down and release energy from breaking bonds
 	- digestion
 	- big to small
-- these two reaction types combindes is what forms our metabolism 
-- exergonic (energy released), and endergonic (energy abosrobed)
-- enzymes are made of globular protiens 
+- these two reaction types combined is what forms our metabolism 
+- exergonic (energy released), and endergonic (energy absorbed)
+- enzymes are made of globular proteins 
 - terms
 	- Substrate: the reactant which binds to the enzyme
 	- Product: end result of the reaction
-	- active site: the catalytic site in which the subtrate fits
-	- enzyme usbtrate complex: the complex formed when the usbtrate and the enzyme interact
-	- allosteric stie: the site in wich the non competative inhibor fits
-- 
+	- active site: the catalytic site in which the substrate fits
+	- enzyme substrate complex: the complex formed when the substrate and the enzyme interact
+	- allosteric site: the site in which the non competitive inhibitor fits
+-  each enzyme is reaction specific and works with a particular substrate
+- enzymes are not consumed by the reaction and are generally unaffected
+- factors that may affect enzyme activity include
+	- Temperature
+		- increased temp = increased rate until the optimum temperature is reached 
+		- more kinetic energy = more collision = more ROR
+		- increasing the temperature past the optimum point induces a loss of the enzyme's shape causing protein denaturation 
+		- ![](../images/tempearturegraphforenzymes.png)
+	- PH
+		- enzymes function over a narrow pH range 
+		- when ph is altered, ionic bonding is disrupted, causes change in 3D shape, denaturation 
+		- ![](../images/phinenzymes.png)
+	- Substrate concentration
+		- as the substrate concentration, the initial rate increases linearly
+		- eventually the enzymes active sites are all occupied, and the max throughput is reached, thus the rate can only be increased by adding more enzymes
+		- ![](../images/substrateconcnetrationinenzymes.png)
+	- enzyme concentration
+		- if the substrate concentration is maintained, the rate of reaction will increase linearly in relation to the concentration of enzymes
+		- ![](../images/enzymesvsacitivty.png)
+- Enzymes have two models,
+	- the lock and key model which is not widely accepted
+		- each enzyme has a complementary shape of the substrate and both dont change
+	- the induced fit which is widely accepted
+		- enzymes will mould to fit  itself around the substrate upon binding
+- molecules will bind to an enzyme to prevent the reaction from taking place, they may also bind to the active site or somewhere else in the enzyme structure
+	- these fall into 2 categories 
+		- competitive inhibitors
+			- resembles the substrate and competes for the active site, will slow or stop the reaction
+		- non competitive inhibitors
+			- will bind to a site other then the active site and will block enzyme function physically or 
+			- allosteric inhibitors will block enzyme function by altering the shape
+- often, the last step of a reaction will act as inhibitors for the earlier steps to avoid over saturating the cell with unnecessary products
+	- ![](../images/enzymesbeingprettysmart.png)
 
+## Cell membrane 
+- cell membranes control what goes in and out of the cell 
+- it is made up of a phospholipid bilayer, and the "Fluid mosaic model" is often used to describe it
+- the "Fluid mosaic model" comes from the fact that it's constantly in motion, fluid, and is made up of a lot of small parts, mosaic
+	- more specifically the cholesterol in the cell wall will keep the phospholipids liquid at different temperatures to ensure fluidity of the cell membrane
+- Phospholipids
+	- hydrophobic heads and hydrophilic tails cause them to form a bilayer surrounding the cell
+	- this blocks most unwanted substances from passing through (especially polar and large substances)
+- cholesterol 
+	- is found along side the phospholipids in the membrane
+	- stabilizes the membrane and ensures it stays liquid 
+	- at low temperatures it keeps philips from freezing and packing together 
+	- at high temperatures it holds them from separating apart and dissociating
+- proteins
+	- active and passive transport across the cell membrane 
+	- signaling 
+	- enzymes in the cell and on the cell
+	- attachment points for the cytoskeleton
+	- three types:
+		- integral
+			- in the membrane but not all the way through
+		- transmembrane integral 
+			- proteins go all the way through
+		- peripheral proteins
+			- on the surface of the membrane
+	- mostly on the inside of the cell
+- carbohydrates
+	- on the outer surface, and are predominantly signaling molecules
+	- two types
+		- glycoproteins, a carbohydrate attached to a protein
+		- glycolipids, a carbohydrate attached to a lipid
+	- they are cellular markers for the immune system to recognize the cell as part of the human body and good
+
+## Transportation across the membrane
+
+- oxygen and carbon dioxide can move through the cell membrane via passive diffusion
+- water enters via aquaporins and travels through the cell via Facilitated diffusion
+- glucose travels through the cell via GLUT transporters, which is just protein facilitated diffusion
+- sodium and potassium travel through the cell membrane via active transport and protein pumps. this requires atp 
+	- the sodium and potassium pumps use the energy from the high concentration sodium moving to the low concentration sodium to move the potassium, but it's still not sufficient so it still requires atp
+- enzymes move through exocytosis 
+- summery
+	- ![](../images/transport%20summery.png)
+- simple diffusion will linearly increase as concentration increases, but facilitated diffusion will follow a root x curve, due to the throughput of the pumping proteins being reached 
+	- ![](../images/protienrateoftranposrt.png)
+- hypotonic
+	- cell expands due to high concentration of solute inside the cell causing water to move in
+- isotonic
+	- equilibrium is reached and water flows in and out
+- hypertonic
+	- high concentration outside of the cell causing water to move outside, shrinking the cell
+- 3 types of endocytosis
+	- phagocytosis
+		- fusing with the lysosome for the digestion of solid goods
+	- pinocytosis
+		- drinking the extracellular fluid to gain the electrolytes
+	- receptor mediated endocytosis
+		- will only eat stuff after certain receptor molecules (carbohydrates) have bonded with certain molecules
+- exocytosis is always done via vesicles 
 # Lab Summaries
 
 
@@ -144,3 +235,4 @@
 
 
 # Reminders 
+
