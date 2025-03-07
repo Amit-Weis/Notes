@@ -14,7 +14,7 @@
 	- The high heat capacity maintains the stable environment even though temperature may change drastically 
 	- the stable environment produced is good for aquatic and land animals
 	- the stable environment is also good for the biochemical reactions inside cells
-- High heat of Vapourization 
+- High heat of Vaporization 
 	- used for cooling down plants, as it allows organisms to pass off energy into water, and have it evaporate away from the body
 	- also effective in cooling plants via transpiration on the leaves
 - Strong solvent
@@ -22,7 +22,7 @@
 	- allows for transportation down capillary tubes or up xylem
 
 ## Carbohydrates
-- Most hexose carbohydrates live in the ratio of $(CH_{2}O)_{2}$
+- Most hexose carbohydrates live in the ratio of $(CH_{2}O)_{n}$
 - Functions
 	- Base form of organic energy
 	- Large polysaccharides can be used for long term storage
