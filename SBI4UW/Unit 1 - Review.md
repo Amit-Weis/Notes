@@ -231,7 +231,7 @@
 		- will only eat stuff after certain receptor molecules (carbohydrates) have bonded with certain molecules
 - exocytosis is always done via vesicles 
 - most enzymes must be activated before they can function
-- two main types of activators
+- two main types of activators for enzymes
 	- cofactors
 		- small not organic compounds 
 		- attach to sections of the protein to activate it
@@ -259,4 +259,10 @@
 - 
 # Reminders 
 - Fluid mosiac, fluid because of cholestral and the kinks in the fatty acids 
-- 
+- two main types of activators for enzymes
+	- cofactors
+		- small not organic compounds 
+		- attach to sections of the protein to activate it
+	- coenzymes
+		- small organic compounds
+		- attach to sections of the protein to activate 
