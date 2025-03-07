@@ -1,5 +1,6 @@
 
 ## V = RI
+---
 - this is the foundation of the circuit analysis
 - we can use it for the total circuit but also specific elements in the circuit
 - the resistance of a circuit with multiple resistors is just the same of all of the resistances
@@ -10,6 +11,7 @@
 - voltage remains the same across the circuit in both parrelel and series circuits
 
 ## Electric Current and DC circuits 
+---
 ### Current
 - the rate of charge flow, $I$
 - SI unit is $\frac{C}{S}$ or $A$
@@ -39,5 +41,28 @@ R = \frac{\rho L}{A}
 $$
 - we want as low as resitivity as possilbe 
 - silver is the best conductor, but it tarnishes/rusts so its bad
-- copper or gold is very good, copper is very cheap and very malleable, but gold is very untarnishble 
+- copper or gold is very good, copper is very cheap and very malleable, but gold is very untarnished 
 - resistance $\neq$ resistivity 
+
+
+## Power and EMF
+---
+
+## Kirchhoff's Rules
+---
+- ohms law only applies for simple cicruits
+- to anaylze more complex circuits we need to use Kirchhoff's Rules
+- Kirchhoff's Rules
+	- junction rule:
+		- conservation of energy, but conservation of current 
+		- the sum of all our currents exiting the junction must equal the current entering the junction 
+		- $I_{1} = I_{2} + I_{3}$
+	- loop rule:
+		- the sum of all changes in electric potential around any closed system must equal zero
+		- a battery provides $x$ volts, and then it loses $y$ amounts of voltage at every load
+		- $x-y=0$
+- steps for solving K rule questions
+	- draw an expected direction of the current for each circui element 
+		- the direction doesnt matter, if its wrong the real direction is in the oppsite direction, you will calcualte a negative result
+	- apply the junctino rule to each junction. you need as many equations as there are unkowns 
+	- 

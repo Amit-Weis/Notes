@@ -1,5 +1,5 @@
 ## Electric Charge and Force
-
+---
 friction force is based on electrical force, because friction is actually felt by electric force. Normal force (anti gravity force) is actually the electric force pushing up
 
 - backstory
@@ -21,13 +21,13 @@ friction force is based on electrical force, because friction is actually felt b
     - the more electronegative object will become negatively charged, while the other object will become more positively charged when rubbing
 
 ## atomic structure and source of charge
-
+---
 - electrons are negative, nuclei and protons are positive.
 - $3.2 \times10^{-19} \ C$ represents the charge of a single electron, meaning all charges must be multiples of that
 - protons are 1800 times more massive than electrons
 
 ## Conduction and Induction
-
+---
 - solids are one of three things:
     - conductors - electrons can move freely
     - semiconductors - both
@@ -56,7 +56,7 @@ friction force is based on electrical force, because friction is actually felt b
     - if you remove the ground, the electrons cannot return, leaving the sphere forever positive
 
 ## electroscope
-
+---
 - a thing is charged, then its parts repel cuz they have the same charge.
 	- ![[image 2 2.png|image 2 2.png]]
     
@@ -66,7 +66,7 @@ friction force is based on electrical force, because friction is actually felt b
     
 
 ## Electric Force
-
+---
 - when two objects repel or attract, they are applying force on one another.
 - the electric force between two charges depends on the inverse square of the distance between them:
     
@@ -87,7 +87,7 @@ friction force is based on electrical force, because friction is actually felt b
 	- $$|\vec F_E| = \frac{|kQq|}{r^2} \\ \ \\ k = 9.0 \times 10 ^9 \frac{N\cdot m^2}{C^2}$$
 
 ## Superimposition of Electrical Forces
-
+---
 - you need to calculate the net initial force on each charge
     - theoretically the charges will react to their initial net forces, but this is beyond scope and therefore don’t care about it
 
@@ -99,12 +99,12 @@ friction force is based on electrical force, because friction is actually felt b
     - $F_{12} = -F_{21}$
 
 ## Super imposition of electrical forces 2D edition
-
+---
 - just do vectors lol
 - get gud
 
 ## Electric Field
-
+---
 - $|\vec F_E| = \frac{|kQq|}{r^2}$ can be understood by assuming the $\vec F_E$ is being applied over a field
 - divide the above equation by $q$ and assuming the $Q$ is big enough to make it insignificant
 - electric field $\vec E$ gives the magnitude of the force of $Q$ on $q$ at any point
@@ -134,14 +134,14 @@ $$\vec F \propto \vec E \propto \frac{1}{r^2}$$
     
 
 ## Electric and gravitational fields
-
+---
 - there is a similar relationship between the electric field and the gravitational field because they both generate central forces.
 - magnitude of the force depends on the distance between the point and the center
 - gravitational field is always positive because mass is always positive, but electric field can be negative or positive meaning its attractive or repulsive (unlike gravity)
 - gravity is weaker than electrical force
 
 ## electric field of multiple charges
-
+---
 - electric field is a vector, therefore if there are multiple charges, you can just add the vectors
 
 - this an example of how it looks with two like charges
@@ -158,12 +158,12 @@ $$\vec F \propto \vec E \propto \frac{1}{r^2}$$
 $$\vec E_{net} = \Sigma \vec E_n \\ \ \\ n = \text{total number of fields}$$
 
 ## electric field in multiple dimensions
-
+---
 - more vector addition
 - think with thy head
 
 ## uniform electric fields
-
+---
 - uniform electric fields is when you have a massive amount of charged particles that create a uniform field
     
     ![[image 9 2.png|image 9 2.png]]
@@ -172,8 +172,10 @@ $$\vec E_{net} = \Sigma \vec E_n \\ \ \\ n = \text{total number of fields}$$
 	![[Pasted image 20250224100327.png]]
 
 ## Electric potential and capacitors
+---
 - see [The Secret Calc Part of Physics](The%20Secret%20Calc%20Part%20of%20Physics.md)
 # electric potential (voltage)
+---
 - $\Delta V = \frac{\Delta U_{E}}{q} = \frac{\frac{kQq}{r}}{q} = \frac{kQ}{r}$
 - Our study of electricity began with Coulomb's Law which calculated the electric force between two charges, Q and q. 
 -  By assuming q was a small positive charge, and dividing F by q, the electric field E due to the charge Q was defined.

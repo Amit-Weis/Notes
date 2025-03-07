@@ -4,7 +4,7 @@
     - In conversion, add 273 when given temp has no decimals, or 273.15 when given temp has decimals
 
 # Lesson 1 - Ideal Gas Law
-
+---
 - Relations between heat, work, temperature, and energy
 - Isolated systems
 - Focus on gases
@@ -63,7 +63,7 @@ A = m^2$$
     
 
 # Lesson 2 - Kinetic Theory & Maxwell-Boltzmann Distributions
-
+---
 - ideal gas assumptions
     - **random**: particles move in random directions
     - **attraction**: the attraction between particles is negligible
@@ -185,11 +185,11 @@ A = m^2$$
     - As you increase temperature velocity increases, but peak of the probability distribution goes down
 
 # Lesson 3 - PV Diagrams
-
+---
 - dude this shit is so easy don't even note: only PV graphs looking at temp vs P vs V
 
 # Lesson 4 - heat and heat transfer
-
+---
 - What is Temperature?
     - A measure of the warmth/coldness of an object or substance with reference to some standard value
     - Examples being: Kelvin, Celsius and Fahrenheit
@@ -272,7 +272,7 @@ A = m^2$$
         
 
 # lesson 5 - internal energy and work
-
+---
 - in an ideal gas the total kinetic energy of all molecules is called internal energy or $U$
 
 $$U = \sum \overline K = N \overline K = N(\frac{3}{2}k_BT) = \frac{3}{2}nRT$$
@@ -297,7 +297,7 @@ $$U = \sum \overline K = N \overline K = N(\frac{3}{2}k_BT) = \frac{3}{2}nRT$$
   
 
 # lesson 6 - First law of thermodynamics
-
+---
 $$\Delta U = Q + W \\  
 U = \frac32nRT = \frac32NK_BT$$
 
@@ -330,7 +330,7 @@ U = \frac32nRT = \frac32NK_BT$$
     
 
 # Lesson 7 - Second law of thermodynamics
-
+---
 - irreversible processes: happen in one direction and not the opposite
 - Heat flows naturally from a hot object to a cold object; Heat never flows spontaneously from a cold object to a hot object.
 - Entropy
@@ -376,6 +376,6 @@ $$\text{Entropy or } S = \frac{J}{K}$$
         - No heat engine operating between two temps can have greater efficiency than a Carnot engine
 
 # Lesson 7b - Calorimetry
-
+---
 - blah blah blah
 - use SI units, therefore $c = \frac{J}{kg \degree C}$
