@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBowlFood",
       "FasAtom",
       "LiImages",
       "LiCircuitBoard",
-      "FasBoltLightning",
-      "FasFire"
+      "FasBoltLightning"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "SPH4UW/Unit 2": "FasBoltLightning",
   "SPH4UW/Unit 3": "LiCircuitBoard",
   "images": "LiImages",
-  "SBI4UW/Unit 1 - Review.md": "FasAtom"
+  "SBI4UW/Unit 1 - Review.md": "FasAtom",
+  "SBI4UW/Unit 2 - Review.md": "FasBowlFood"
 }
