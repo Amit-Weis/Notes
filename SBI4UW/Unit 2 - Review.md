@@ -1,7 +1,7 @@
 
 
 # ATP & Energy
-
+---
 - Metabolism is the process the body undergoes to convert food into energy to do work
 - recall:
 	- First law of thermodynamics, conservation of energy
@@ -31,3 +31,75 @@
 - ATP can be "hydrolyzed" and lose one of its phosphate and forms ADP and releases energy. the phosphate then bonds to another molecule to give it energy
 - then you can add another phosphate to ADP to form another ATP
 - when a phosphate is transferred to another molecule the other molecule is called phosphorylated 
+# Cellular Respiration Overview
+---
+- purpose of celular respiration is to convert energy trapped within glucose to energy trapped within ATP, which can do work in the cell much more easy
+- see above for ATP and ADP info
+- recall REDOX
+	- oxidation releases electron, reduction gains electron
+	- if something lost an electron, something must gain an electron
+	- electrons will be passed along with the following loops like so:
+		- ![](../images/electronchain.png)
+- Hydrogen Acceptors
+	- Coenzymes, they help reactions involving enzymes
+	- $NAD^+$ or $FAD^+$ are coenzymes in an oxidized form
+	- $NADH$ or $FADH$ are coenzymes in a reduced form
+	- energy carriers 
+- one cycle of cellular resperation will produce 38 mols of ATP, with a majority being from the electron transport system 
+- in eukaryotic cells, stage 1 occurs in the cytosol. the rest of the stages occur in the mitochondrion 
+- structure of the mitochondrion:
+	- ![](../images/powerhouseofcellstructure.png)
+	- Matrix, tons of enzymes molecules nuetrins etc are floating in there, this is where electron transport happens. the folds in the matrix (cristae) increase the surface area
+	- inner membrane, tons of enzyme complexes which produce atp (called stalked particles)
+
+- ## Cellular respiration Pogil
+	- Model 1:
+		- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqUW5n5kLcPYVHPrFdXPxB6PdxFxyqPALr_fMqBUn4egEEzonu2CAaZWhGK9ZcHia9gItyCvOWNCYcmDq_J5KgHAofsfINP8UirupNdte2vSt4B5GZHXzGdgKxHKwHipuvW-OG0Q?key=KAhM68nKTnJEsynpDbcFjzti)
+	- According to Model 1, what are the reactants of cellular respiration?
+		- $C_{6}H_{12}O_{6}$ and $O_2$
+	- According to Model 1, what are the products of cellular respiration?
+		-  $ATP$, $H_2O$ and $CO_2$
+	- Cellular Respiration occurs in four phases: glycolysis, the link reaction, Krebs cycle and oxidative phosphorylation.
+		- Which phase of cellular respiration occurs in the cytoplasm of the cell?
+			- Glycolysis
+		- Which phase(s) of cellular respiration occur in the mitochondria?
+			- Krebs Cycle, Oxidative phosphorylation, and the link reaction
+		- Which of the four phases produce carbon dioxide?
+			- The link reaction
+		- Which of the four phases produce water?
+			- Oxidative phsophorylation
+	- The goal of C.R. is to produce the cell with energy in the form of ATP. 
+		- Which of the four phases result in the production of ATP?
+			- Glycolysis, krebs Cycle, and Oxidative phosphorylation
+		- How many ATPs (net total) are produced for every ONE glucose molecule that undergoes C.R.?
+			- 38
+		- What reactants of ATP must be available in the cell in order to produce ATP?
+			- ADP and phosphate
+		- Brainstorm several processes for which energy or ATP is necessary
+			- active transport 
+			- cell signlaing 
+			- rna synthesis 
+			- muscle contraction
+	- Besides ATP, what other molecules appear to be high potential energy molecules (free energy carriers) during cellular respiration?
+		- $NADH$ and $FADH$
+	- Model 2:
+		- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcl7WavdSA_RvQnUIUOrYsTO3k818TpTUzfPLueRi36_T1pPIZHY-UfVO-tTHAjBEqdK9pcjYm7aUJYWqiYVjg-3zXDJQk9-La2xBETrX4W6NCIUrUZER6NU6yGOePpNZmvFlNo_Q?key=KAhM68nKTnJEsynpDbcFjzti)
+	- Are the reactions (to create $NADH$, $FADH_2$, $H_2O$)  in model 2 oxidation or reduction reactions?
+		- Reduction 
+		- Reduction 
+		- Reduction
+	- Which form of nicotinamide adenine dinucleotide is the reduced form, NAD+ or NADH? Explain.
+		- NADH
+	- The hydrogen ions and electrons that were carried by $NADH$ and $FADH_2$ are used in oxidative phosphorylation.
+		- What molecules are produced as the hydrogen ions and electrons are removed from $NADH$ and $FADH_2$?
+			- $NAD^+$ and $FAD^{2+}$
+		- Is the removal of hydrogen ions and electrons from NADH and FADH2 oxidation or reduction? Explain.
+			- Oxidation 
+	- Cells can survive for short periods without oxygen. Only the glycolysis phase of cellular respiration occurs in these circumstances.
+		- Predict the number of ATP molecules that could be produced from one glucose molecule if oxygen were not available .
+			- 4
+		- Oxidative phosphorylation no longer occurs when oxygen is not available, predict what would eventually happen to the supply of NAD+ in the cell if only glycolysis were occurring?
+			- It would oversaturate, causing problems
+
+
+
