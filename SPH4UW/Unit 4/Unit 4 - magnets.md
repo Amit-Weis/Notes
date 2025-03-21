@@ -50,3 +50,16 @@ B=\frac{\mu _{0}}{2\pi} \cdot \frac{I}{r} \\
 
 $$
 - 
+# Magnetic Force on a Moving Electric Charge
+---
+- magnetic poles exert a force on each other, but a magnetic field will exert a force on amoving charge. 
+- if the charge is not moving iut does not feel the force 
+- the force is related to the velocity of the charge 
+$$
+\begin{gather}
+\vec{F_{M}} = q \vec{v} \times \vec{B}  \\
+
+|\vec{F_{M}} |= |q \vec{v}| |\sin(\theta)| |\vec{B}|
+\end{gather}
+$$
+- the angle $\theta$ is given by the angle between the velcity vector and the magnetic field vector
