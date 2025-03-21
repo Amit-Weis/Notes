@@ -63,3 +63,14 @@ $$
 \end{gather}
 $$
 - the angle $\theta$ is given by the angle between the velcity vector and the magnetic field vector
+
+# Uniform Circular Motion due to am agnetic field
+- magnetic field does not do any work (no change in kinetic energy just work)
+- since force goes inwards, the velcoity of the charge will begin to shift inwards, and start tracing a circle
+
+
+REAL LIFE APPLCIATION
+mass spectrometer
+a mass spectromerter is used to figure out what an atom is
+shoot a particle with a velcoity through a magnetic fiekld, you can see the force it experince and therefore derive its cahrge
+l

@@ -96,9 +96,19 @@
               "icon": "lucide-file",
               "title": "Unit 4 - magnets"
             }
+          },
+          {
+            "id": "8a9c4ce6d48de54a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -250,12 +260,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bf7db547cb221325",
+  "active": "8a9c4ce6d48de54a",
   "lastOpenFiles": [
+    "SPH4UW/Unit 4/Unit 4 - magnets.md",
     "SBI4UW/Unit 2 - Review.md",
     "images/powerhouseofcellstructure.png",
     "images/electronchain.png",
-    "SPH4UW/Unit 4/Unit 4 - magnets.md",
     "images/righthandgriprule.png",
     "images/magnetdomains.png",
     "images/currentmagnetforcefr.png",
