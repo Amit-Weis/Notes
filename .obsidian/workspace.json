@@ -101,10 +101,15 @@
             "id": "8a9c4ce6d48de54a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SPH4UW/Unit 4/Unit 4 - magnets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Unit 4 - magnets"
             }
           }
         ],

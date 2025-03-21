@@ -74,3 +74,11 @@ mass spectrometer
 a mass spectromerter is used to figure out what an atom is
 shoot a particle with a velcoity through a magnetic fiekld, you can see the force it experince and therefore derive its cahrge
 l
+
+
+$$
+\begin{gather}
+\int \pi \sigma \Sigma 
+\end{gather}
+
+$$
