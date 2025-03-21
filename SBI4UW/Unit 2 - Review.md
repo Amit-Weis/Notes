@@ -103,3 +103,22 @@
 
 
 
+
+# Glycolysis
+---
+- the goal of cellular respiration is to capture free energy in glucose to form ATP
+- in order to achieve this tow methods are used:
+	- substrate level phosphorylation
+	- oxidative phosphorylation
+- Substrate level phosphorylation
+	- ATP is formed directly from the enzyme controlled reactions (in glycolysis and krebs cycle)
+	- occurs when a phosphate group is transfeered from one moleucle to an ADP molecule
+-  oxidative phosphorylation
+	- ATP is formed indrecitly via multiple different steps in the electron transport chain 
+	- formed via a sereies of redox reactions
+- pyruvate will undergo krebs cycle and ETC only if $O_2$ is present 
+- Glycolysis occurs in the cytosol/cytoplasm
+- glycolysis convertss glucose into 2 pyruvate ($C_{3}H_3O_3^-$)
+- glycolysis is an anarobic process
+- glycolysis requires ATP to start, is refered to the enrgy input stage to get the rest of the cycle going 
+- 
