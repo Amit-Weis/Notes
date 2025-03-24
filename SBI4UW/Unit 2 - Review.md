@@ -16,7 +16,7 @@
 - when there is bond breaking, there is always bond forming, and vice versa
 - metabolism reactions often have very high heat release, which needs to be accounted for in some manner
 	- manners include:
-		- using energy as waste and staving it off via sweating
+		- using energy as waste and saving it off via sweating
 		- using energy as a product for another reaction 
 		- breaks down mechanism to a lot of little steps to make the releases in energy 
 - organisms are endergonic systems, we need a lot of energy
@@ -25,7 +25,7 @@
 	- this is called energy coupling
 - the energy 'currency' of our cells is called ATP
 	- Adenosine Triphosphate
-	- similar to nucleotides and is a nucliec acid
+	- similar to nucleotides and is a nucleic acid
 	- good for short term energy usage (not for storage)
 	- ![](../images/atp%20diagram.png)
 - ATP can be "hydrolyzed" and lose one of its phosphate and forms ADP and releases energy. the phosphate then bonds to another molecule to give it energy
@@ -33,7 +33,7 @@
 - when a phosphate is transferred to another molecule the other molecule is called phosphorylated 
 # Cellular Respiration Overview
 ---
-- purpose of celular respiration is to convert energy trapped within glucose to energy trapped within ATP, which can do work in the cell much more easy
+- purpose of cellular respiration is to convert energy trapped within glucose to energy trapped within ATP, which can do work in the cell much more easy
 - see above for ATP and ADP info
 - recall REDOX
 	- oxidation releases electron, reduction gains electron
@@ -45,11 +45,11 @@
 	- $NAD^+$ or $FAD^+$ are coenzymes in an oxidized form
 	- $NADH$ or $FADH$ are coenzymes in a reduced form
 	- energy carriers 
-- one cycle of cellular resperation will produce 38 mols of ATP, with a majority being from the electron transport system 
+- one cycle of cellular respiration will produce 38 moles of ATP, with a majority being from the electron transport system 
 - in eukaryotic cells, stage 1 occurs in the cytosol. the rest of the stages occur in the mitochondrion 
 - structure of the mitochondrion:
 	- ![](../images/powerhouseofcellstructure.png)
-	- Matrix, tons of enzymes molecules nuetrins etc are floating in there, this is where electron transport happens. the folds in the matrix (cristae) increase the surface area
+	- Matrix, tons of enzymes molecules, neutrons etc are floating in there, this is where electron transport happens. the folds in the matrix (cristae) increase the surface area
 	- inner membrane, tons of enzyme complexes which produce atp (called stalked particles)
 
 - ## Cellular respiration Pogil
@@ -67,7 +67,7 @@
 		- Which of the four phases produce carbon dioxide?
 			- The link reaction
 		- Which of the four phases produce water?
-			- Oxidative phsophorylation
+			- Oxidative phosphorylation
 	- The goal of C.R. is to produce the cell with energy in the form of ATP. 
 		- Which of the four phases result in the production of ATP?
 			- Glycolysis, krebs Cycle, and Oxidative phosphorylation
@@ -77,7 +77,7 @@
 			- ADP and phosphate
 		- Brainstorm several processes for which energy or ATP is necessary
 			- active transport 
-			- cell signlaing 
+			- cell signaling 
 			- rna synthesis 
 			- muscle contraction
 	- Besides ATP, what other molecules appear to be high potential energy molecules (free energy carriers) during cellular respiration?
@@ -107,18 +107,45 @@
 # Glycolysis
 ---
 - the goal of cellular respiration is to capture free energy in glucose to form ATP
-- in order to achieve this tow methods are used:
+- in order to achieve this two methods are used:
 	- substrate level phosphorylation
 	- oxidative phosphorylation
 - Substrate level phosphorylation
 	- ATP is formed directly from the enzyme controlled reactions (in glycolysis and krebs cycle)
-	- occurs when a phosphate group is transfeered from one moleucle to an ADP molecule
+	- occurs when a phosphate group is transferred from one molecule to an ADP molecule
 -  oxidative phosphorylation
-	- ATP is formed indrecitly via multiple different steps in the electron transport chain 
-	- formed via a sereies of redox reactions
+	- ATP is formed indirectly via multiple different steps in the electron transport chain 
+	- formed via a series of redox reactions
 - pyruvate will undergo krebs cycle and ETC only if $O_2$ is present 
 - Glycolysis occurs in the cytosol/cytoplasm
-- glycolysis convertss glucose into 2 pyruvate ($C_{3}H_3O_3^-$)
-- glycolysis is an anarobic process
-- glycolysis requires ATP to start, is refered to the enrgy input stage to get the rest of the cycle going 
-- 
+- glycolysis converts glucose into 2 pyruvate ($C_{3}H_3O_3^-$)
+- glycolysis is an anaerobic process
+- glycolysis requires ATP to start, is referred to the energy input stage to get the rest of the cycle going 
+- when atp is generated in glycolysis its called substrate level phosphorylation 
+
+# Link Reaction / Pyruvate Oxidation
+- What happens after glycolysis
+	- if $O_2$ is present, the hydrogen acceptors ($NADH$ and $FADH_2$) enter the mitochondria for krebs cycle (aerobic respiration)
+	- if no $O_2$ is present, you go into anaerobic respiration and the pyruvate stays in the cytoplasm where its converted to lactic acid in animals or ethanol in plants (fermentation)
+- when $CO_2$ is lost in a reaction its called decarboxylation
+	- (first step of krebs cycle)
+- COenzyme-A is a carrier which will hold and modify molecules (it's a derivative of vitamin B which is why i need it)
+	- all it does is move acetyl to krebs cycle, then move back to wait for more acetyl
+
+# Krebs cycle (citric acid cycle)
+- occurs in the matrix of the mitochondrion
+- every step is enzyme driven
+- oxaloacetate is the reactant and product, while all the rest are just a reactant and product
+1. According to Model 2, what happens to pyruvic acid during the Krebs cycle?
+	1. 
+2. According to Model 2, where does the change identified in the previous question occur?
+	1. 
+3. Count the number of atoms of carbon in pyruvic acid and explain why three molecules of carbon dioxide are produced.
+	1. There are 3 carbons in Pyruvate, and 3 carbon dioxide released
+4. Considering that glycolysis produces two pyruvic acid molecules per glucose molecule, how many total CO2 molecules will be produced from the complete breakdown of each glucose molecule? Show a mathematical equation to support your answer.
+	1. $2 \text{ pyruvate} = 6CO_{2}=C_{6}H_{12}O_{6}$
+5. What two hydrogen-carrying molecules are formed during the Krebs cycle?
+	1. $NADH$ and $FADH_2$
+6. Fill out the chart by looking back at the entire process of glycolysis and the Krebs cycle to list the total number of ATPs and hydrogen-carrying molecules produced.
+	- look on paper note
+
