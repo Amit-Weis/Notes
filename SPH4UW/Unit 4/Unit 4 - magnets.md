@@ -68,6 +68,8 @@ $$
 - magnetic field does not do any work (no change in kinetic energy just work)
 - since force goes inwards, the velcoity of the charge will begin to shift inwards, and start tracing a circle
 
+# Magnetic Force on a Current Carrying Wire
+- 
 
 REAL LIFE APPLCIATION
 mass spectrometer
