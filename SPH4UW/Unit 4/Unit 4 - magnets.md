@@ -71,16 +71,25 @@ $$
 # Magnetic Force on a Current Carrying Wire
 - 
 
+# Electromagnetic Induction
+---
+- ## Induced EMF
+	- whn were looking at our magnetisim, we know that a current will generate  amagnentic field
+	- but will a magnetic field generate a current?
+	- we discovered that if a magnet is moving it will make a current, but not when its stationary 
+	- all thats required is a "changing" magnetic field, having a magnet "form" Ferromagneticially, will induce a current to nearbye circuits 
+	- magnetic flux is the quianity of field lines that pass in a perpendicular direction given surface area and is represented by $\phi_{B}$
+	- the unit of $\phi_B$ is $Wb$ where $Wb = Tm^2$
+	- also $\phi = |\vec{B}| \cos \theta |\vec{A}|$
+	- Faraday's Law of induction
+		- calcualting the current via magnetic flux 
+		- $$ \epsilon = -\frac{\Delta \Phi_{B}}{\Delta t}$$
+		- change in flux/ change in time = emf 
+
+
+
+
 REAL LIFE APPLCIATION
 mass spectrometer
 a mass spectromerter is used to figure out what an atom is
 shoot a particle with a velcoity through a magnetic fiekld, you can see the force it experince and therefore derive its cahrge
-l
-
-
-$$
-\begin{gather}
-\int \pi \sigma \Sigma 
-\end{gather}
-
-$$
