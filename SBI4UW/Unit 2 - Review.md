@@ -149,3 +149,15 @@
 6. Fill out the chart by looking back at the entire process of glycolysis and the Krebs cycle to list the total number of ATPs and hydrogen-carrying molecules produced.
 	- look on paper note
 
+# ETC and Chemiosmosis
+- takes place in the inner membrane of the mitochondrion 
+- all t he atp is made through oxidative pohsophorylation 
+- ordered in increasding electronegativity (so each next step can steal the electrons of the previous step)
+- chemiosmosis 
+	- $NADH$ is oxidized to $NAD^+$ 
+	- $H^+$ is pumped across the membrane, into the intermembrane space of the mitochondrion 
+	- $H^+$ is pumped against its conc gradient
+	- then afterwords, the $H^+$ will move through a ATP syntase (protien) following its conc gradient via passive transport
+	- its bassicly osmosis, but instead of water its $H^+$
+	- bassicly a build up of $H^+$ ions on one side via active transport, so during ATP synthesehsis, it can build atp with passive transport 
+- 
