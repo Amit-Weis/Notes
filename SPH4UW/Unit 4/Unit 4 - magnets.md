@@ -89,6 +89,14 @@ $$
 
 
 
+# Lenz's Law
+---
+- if the extenral feild gets weakaer, the induced current tries to replace the missing field by generating a magnetic field to "replace" it
+- if the external field gets stronger, the induced current will counteract the new field
+- 
+
+
+
 REAL LIFE APPLCIATION
 mass spectrometer
 a mass spectromerter is used to figure out what an atom is
