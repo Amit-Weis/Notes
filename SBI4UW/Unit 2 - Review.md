@@ -65,7 +65,7 @@
 		- Which phase(s) of cellular respiration occur in the mitochondria?
 			- Krebs Cycle, Oxidative phosphorylation, and the link reaction
 		- Which of the four phases produce carbon dioxide?
-			- The link reaction
+			- The link reaction and krebs cycle
 		- Which of the four phases produce water?
 			- Oxidative phosphorylation
 	- The goal of C.R. is to produce the cell with energy in the form of ATP. 
@@ -124,6 +124,7 @@
 - when atp is generated in glycolysis its called substrate level phosphorylation 
 
 # Link Reaction / Pyruvate Oxidation
+--- 
 - What happens after glycolysis
 	- if $O_2$ is present, the hydrogen acceptors ($NADH$ and $FADH_2$) enter the mitochondria for krebs cycle (aerobic respiration)
 	- if no $O_2$ is present, you go into anaerobic respiration and the pyruvate stays in the cytoplasm where its converted to lactic acid in animals or ethanol in plants (fermentation)
@@ -133,6 +134,7 @@
 	- all it does is move acetyl to krebs cycle, then move back to wait for more acetyl
 
 # Krebs cycle (citric acid cycle)
+--- 
 - occurs in the matrix of the mitochondrion
 - every step is enzyme driven
 - oxaloacetate is the reactant and product, while all the rest are just a reactant and product
