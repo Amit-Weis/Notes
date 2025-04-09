@@ -120,3 +120,8 @@ U_{1} = \frac{qQq}{r_{1}}
 $$
 this took me ~3 hours to make/learn, hope this helped!
 -A
+
+
+$$
+\frac{\lambda 12}{3 } = a_{2} 
+$$
