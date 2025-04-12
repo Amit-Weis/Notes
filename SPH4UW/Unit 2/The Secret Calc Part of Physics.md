@@ -123,5 +123,6 @@ this took me ~3 hours to make/learn, hope this helped!
 
 
 $$
-\frac{\lambda 12}{3 } = a_{2} 
+\frac{1}{R_{eq}} = \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} \\
+\frac{1}{R_{eq}} = \Sigma_{i} \frac{1}{R_{i}}
 $$
