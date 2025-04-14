@@ -138,3 +138,19 @@
 	- the plant doesn't stay here for long, because it needs the products from z-scheme to make glucose in Calvin's cycle
 	- ![](../images/noncylcic.png)
 - 
+
+# Factors Affecting Photosynthesis
+- photosynthesis is a $\sqrt{x }$ relation with light intensity
+- at the beginning more light intensity increases rate of photosynthesis linearly, but then the increase starts plateauing due to another factor becoming limiting 
+- temperature/stomata closes in high intensity light (cuz lots of sun) and this can slow down or even stop photosynthesis
+- $[CO_2]$ is also $\sqrt{x}$ relation with rate of photosynthesis
+- rubisco will eventually bottleneck the photosynthesis 
+- temperature has a bell curve relation with photosynthesis, each plant has a optimal temperature where it works the best (due to enzymes having optimal temperature)
+- the light dependent reaction is not enzyme driven, but the light independent is (rubisco)
+- temperature also like will eventually close the stomata and stuff, completely stopping photosynthesis 
+- Law of limiting factors 
+	- rate will be limited by some factor 
+	- amount of light, temperature, $[CO_2]$, etc
+	- if you increase one thing you increase the consumption of the other things 
+- at high light levels, sun plants will have a higher ROP, and at low light levels shade plants will have a higher ROP
+	- ![](../images/sunshadeplantgraph.png)
