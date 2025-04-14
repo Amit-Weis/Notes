@@ -154,3 +154,82 @@
 	- if you increase one thing you increase the consumption of the other things 
 - at high light levels, sun plants will have a higher ROP, and at low light levels shade plants will have a higher ROP
 	- ![](../images/sunshadeplantgraph.png)
+
+
+# Review 
+
+Photosynthesis Putting it Together Practice
+
+1. How does ATP synthase produce ATP? 
+	- hydrogen ions enter through the top of the ATP synthase, which causes an intenral turbine to being spinning, this kinetic energy is then used to bond an andditional phosphate group into the ADP
+
+2. When sunlight excites electrons in chlorophyll, how do the electrons change? 
+	- they become filled with more ernegy 
+
+
+4. Where do the light-dependent reactions take place? 
+
+
+5. Complete the table by summarizing what happens in each phase of the light-dependent reactions of photosynthesis. 
+
+Light Dependent Reactions
+Summary
+Photosystem II
+
+
+Electron Transport Chain
+
+
+Photosystem I
+
+
+Hydrogen Ion movement and ATP formation
+
+
+
+
+1. Light Dependent Reaction Diagram
+
+
+Explain where photolysis occurs and what it is?
+
+Explain what happens in each of the photosystems.
+
+Explain where the build up of H+ ions is and how it becomes this way.
+
+
+1. According to Model 3, what are the three phases of the Calvin cycle? 
+
+2. Find the compound ribulose biphosphate (RuBP) in Model 3. 
+a. How many RuBP molecules are used in one turn of the Calvin cycle? 
+b. How many carbon atoms are in each RuBP molecule? 
+c. Calculate the total number of carbon atoms represented in all of the RuBP molecules used in one turn of the Calvin cycle. 
+
+1. RuBP combines with carbon dioxide to form phosphoglycerate (PGA) during the carbon fixation phase of the Calvin cycle. 
+
+a. How many CO2 molecules are used in one turn of the Calvin cycle? 
+b. How many PGA molecules are made in one turn of the Calvin cycle? 
+c. How many carbon atoms are in each PGA molecule? 
+d. Calculate the total number of carbon atoms represented in all of the PGA molecules used in one turn of the Calvin cycle? 
+
+1. Explain what happened to the carbon atom from the carbon dioxide molecule that entered the Calvin cycle. 
+
+2. Refer to the reduction phase of the Calvin cycle in Model 3. 
+a. What molecule does the PGA molecule turn into during this phase of the Calvin cycle? 
+ b. Describe specifically how the structures of the two molecules in part a are different.  
+ c. Identify the types and numbers of molecules that provide the free energy necessary for the reduction of the PGA molecules. 
+d. Is the total number of carbon atoms present in the Calvin cycle changed during the reduction phase? Support your answer with evidence from Model 3. 
+
+1. Under each molecule in the equation below, indicate whether it is involved in the light-dependent reactions or the Calvin cycle 
+6CO2 + 12H2O + sunlight energy → C6H12O6 + 6O2 + 6H2O 
+
+
+
+1. When algae are undergoing photosynthesis, the concentration of various molecules change within the cells. These concentrations can be monitored and graphed. Explain the shape of each line on the graph in Model 4.
+
+2. Why are the reactions of the Calvin cycle called light-independent reactions? 
+
+3. What makes the Calvin cycle a cycle? 
+
+4. Would a plant placed in an atmosphere of pure oxygen be able to conduct photosynthesis? Explain your answer. 
+
