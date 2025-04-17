@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasSpaghettiMonsterFlying",
       "FasPlantWilt",
       "FasSunPlantWilt",
       "LiWaves",
-      "FasMagnet",
-      "LiMagnet"
+      "FasMagnet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "SPH4UW/Unit 5": "LiWaves",
   "SBI4UW/Unit 2.md": "FasBowlFood",
   "SBI4UW/Unit 1.md": "FasAtom",
-  "SBI4UW/Unit 2.5.md": "FasPlantWilt"
+  "SBI4UW/Unit 2.5.md": "FasPlantWilt",
+  "SPH4UW/Unit 6": "FasSpaghettiMonsterFlying"
 }
