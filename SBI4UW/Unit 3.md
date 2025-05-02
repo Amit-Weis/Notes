@@ -58,3 +58,24 @@
 - both $Polymerase$ 1 and 3 proofread the complemntary strands, and remove incorreclty paried nucleotides and replace them with the correct ones 
 - Exonucleases ($polymerase$) are enzymes that work by cleaving nucleotides one at a time from the end
 - $deoxyribonucleoside$ $triphosphates$ is just a nucleotide with an ATP attached, and once the ATP is turned into ADP to form energy, 
+
+# Protein Synthesis (Translation)
+- DNA getes transcribed into mRNA, which then gets translated into a polypeptide
+- codons: 3 bases on an mRNA that codes for a specific amino acid
+- the ribosome will go down the 5 to 3 direction untill it finds the AUG codon for methionine, and then it will stop building the polypeptide when it finds a UAG, UAA, UGA stop codon
+- ribosome is made of two pipeces, smaller unit on bottom larger unit on top 
+- tRNA, which is a amino acid with a RNA cap that is an anti codon
+- the ribosome has a large collection of tRNA's which it uses to match to the coding rna to build the polypeptide chain 
+- process
+	- mRNA exits the nuclease after transcription 
+	- the cap gets attached to the ribosome small subunit, which starts the reading process
+	- once a AUG codon is found, the large subunit binds to the whole palce, and the first trna is in the p site, with a second tRNA entering the a site
+	- the amino acid is then moved from the p site tRNA to the a site tRNA 
+	- then the a site tRNA moves to the psite and the mRNA gets moved and a new tRNA enters the a site
+	- once a stop codon is found, a release factor is put into the a site, which then dissacoiated the whole system and the new polypeptide is released
+- translation initaition complex is 
+	- both pecies of the ribosome 
+	- the tRNA with met 
+	- mRNA 
+- all must be present for translation to begin
+- 
