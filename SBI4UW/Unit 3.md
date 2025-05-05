@@ -78,4 +78,16 @@
 	- the tRNA with met 
 	- mRNA 
 - all must be present for translation to begin
+
+# Bacteria are fuck ugly yo
+- gene regulation in prokaryotes
+- prokaryotic cells dont have a nuclues 
+- humans have bacteria in your stomach 
+- this bactera is called E. Coli 
+- the E. Coli will consume whatever you eat 
+- we do not always need all protiens at all times 
+- our genes have ways of communicating whether we need a gene to be transcribed and translated
+- the lac operon in bacteria controls the enzyme that breaks down lactose (prokaryotes only)
+- Operons are the following:
+	- ![](../images/dna%20bacteria.png)
 - 
