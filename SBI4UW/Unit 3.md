@@ -133,5 +133,40 @@
 		- ![](../images/chromosome%20bullshit%20i%20think.png)
 - causes of mutation 
 	- spontanous mutations, dna failing to copuyu
-	- mutagenic agents (chemicals or radation or wtv)
+	- mutagenic agents (chemicals or radation or wtv
+
+
+# genetric shit combiniantoin
+- using tools and gene tech to modify living organisms 
+- examples:
+	- production of insulin 
+	- pesticide and pest resistant crops 
+	- antifreeze from fish blood into strawberries
+- geneteic engineering i sthe alteration of a genome by subsittuting / iontroducing new genetic material intentionally
+- bacteria are often used because
+	- they are prokaryotes 
+	- they replicate easily 
+	- populations grow really fast 
+	- have a single chromosome (and no histones \[ which just means that the chromosome is naked] )
+	- have plasmids 
+		- very small circles of DNA present in bacteria
+		- can replicate on thier own
+		- carry extra genese 
+		- be able to use heavy metals or other things 
+- transformation 
+	- bacteria can pick up peices of DNA from thier enviorment & other bacteria 
+	- incorporate bits of dna into their own genome 
+	- this change can make new features occur 
+	- makes bacteria evolve rapidly 
+- transduction 
+	- a virus (bacteriophages) inefcts bacteria, then inserts a peice of dna into the bcateria's genome 
+- conjugation 
+	- sexual reproduction via a pilis
+	- exchanging plasmids with each other 
+- plasmids used for transferring foreign genetic material into a cell are called vectors 
+- how do we know that the gene has actually been combined?
+	- usallly insert a marker dna seqeunce
+		- example of a marker is a green fluorescent protien 
+		- example of a marker is an antiobiotic resistant gene (if it is succsesefully ressiting a new thing)
+	- 
 - 
