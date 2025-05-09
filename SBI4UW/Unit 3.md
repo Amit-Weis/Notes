@@ -169,4 +169,9 @@
 		- example of a marker is a green fluorescent protien 
 		- example of a marker is an antiobiotic resistant gene (if it is succsesefully ressiting a new thing)
 	- 
+
+# Unit test hahahahahahaha
+- Bacterial transformation 
+	- (transforming one bacteria by passing a section of dna via plasmids)
+- gel electrophoresis
 - 
