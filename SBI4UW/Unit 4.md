@@ -19,7 +19,7 @@
 	- pyramid (segmants inside the kidney)
 	- papilla 
 	- renal artery and vien
-	- nephrons are the filters of the kidney (around a million in the kidney)
+	- nephrons are the filters of the kidney (around a million in the kidney) (the pipes)
 - nephron
 	- main part is the tube, which is wrapped with cappiliries that keeps supplying blood and reabsorbs the filtered blood 
 	- things that get pushed out of the blood include:
@@ -30,3 +30,39 @@
 what is identity ?
 
 is it the things you enjoy? is it the people you talk to? is it the things you do? i think its none of those but the things you think. 
+
+# Formation of urine (kidney)
+- kidneys make urine in nephron 
+- function of nephron 
+	- production of urine, to get rid of water and waste 
+	- blood enters in the afferent arteriole 
+	- possesses through the glomerulus (a giant bundle of capillaries that push the blood at high pressure so it can be filtered)
+	- bowman's capsule collects the blood 
+	- the filtrate passes the tube and goes into the collecting duct 
+	- produces 180 l / day of filtrate, but only 1 liter of urine per day 
+	- most of the filtrate is reabsorbed 
+	- efferent arteriole branches out into capillaries that surround the tubules 
+	- secretion sometimes occur where the blood in the capillaries goes into the tubules
+	- everything except for blood cells and protein go into the bowman's capsule 
+	- proximal convoluted tubule is after the bowman's capsule 
+	- 65% of sodium ions are reabsorbed 
+	- wherever positive sodium ions go, Cl and other negative ions follow 
+	- 65% of potassium and water is reabsorbed 
+	- 90% of $HCO_3$
+	- 100% of glucose and amino acids are reabsorbed into blood
+	- 50% of urea is reabsorbed 
+	- amino and medication is secreted into the tuble 
+	- descending limb and ascending limb travel down and up to or from the medulla 
+	- the ascending limb is impermeable to water, but very high impermeable to ions, opposite for descending 
+	- water leaves while descending due to the medulla being so salty 
+	- then when ascending the NaCl is pulled out 
+	- 25% of NaCl is reabsorbed during this process 
+	- distal convoluted tubule is the place where adjustments are made 
+	- under the effects of a specific hormone, it controls what goes in and out 
+	- area of filtration = glomerulus and bowman's capsule  (bowmans does not actually filter, it just collects)
+	- reabsorption is the proximal convuluted tubule and the loop of henle (descending and ascending loop/limb/unclear)
+	- most of the reabsorption in the proximal convulted tubule happens via active transport (atp required)
+	- secretion area is the distal convulted tubule 
+	- ADH controls how permiable the collecting duct is to water 
+	- 
+
