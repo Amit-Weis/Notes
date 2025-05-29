@@ -66,3 +66,39 @@ is it the things you enjoy? is it the people you talk to? is it the things you d
 	- ADH controls how permiable the collecting duct is to water 
 	- 
 
+# nervous system
+- cephalization 
+	- congreting all the main sense organs in one spot (aka the head in humans)
+		- starfish have no cephalization 
+		- lizards do 
+	- often forms bilateral symmetry 
+	- makes more complex systems 
+- cerebellum started growing as evolution happend 
+- folding patterns in the brain become more complex 
+- nervous systems are better then hormone systems 
+	- speed
+	- cheaper to maintain 
+	- more specific reactions to problems
+- neurons are the functional cells of the nervous systems
+	- supporting cells are called glia 
+	- they pick up information to the spinal chord, or the brain and the spinal chord 
+	- sending the information is called an affarent signal (sensory) 
+	- sending the finromation from the brain to the msucle is called an efferent signal (or motor)
+- Sensory Neurons carry impulses from inside and outside the body to the brain and psinal chord
+	- afferent/sensory nuerons is interchangable
+- interneurons are found within the brain and psinal chord and process incoming impulses and pass them on to the motor nuerons
+- motor nuerons, carry impulses away frombrain and actually do things 
+	- efferent/motor is interchangable
+- the connection point between neurons is called axon terminals 
+- sometimes signals go througha a reflex arc (rapid & involuntary) which skip the brain
+- the nervous system is 
+	- brain
+	- spinal cord 
+	- has the internerouns 
+- peripheral nervous sytem is 
+	- cranial nerves
+	- spinal nervs
+	- peripheral nerves
+	- sensory nuerons
+	- motor nuerons 
+- 
