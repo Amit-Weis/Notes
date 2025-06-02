@@ -101,4 +101,19 @@ is it the things you enjoy? is it the people you talk to? is it the things you d
 	- peripheral nerves
 	- sensory nuerons
 	- motor nuerons 
-- 
+
+
+
+# Action stupid 
+
+- we need to respond quickly and specifically, and hormones lowkey fucking suck at that (get good hormones) 
+- reset quickly! reset quickly means winly!
+- dendrite receives the impulse (the head spikes) and then it goes through the axon, then sends through the axon terminals (tail spikes)
+- soduim, and pottatsuim are the movvment of charge and they signla like that 
+- recall
+	- nueron membrane 
+	- the are a lot of postive ions outside the axon then inside 
+	- lots of negative inside the axon 
+	- the nueron is polarized 
+	- the charge difference between the isnide and out the soude is $-70mV$ 
+	- 
