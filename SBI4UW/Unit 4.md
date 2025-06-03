@@ -116,4 +116,18 @@ is it the things you enjoy? is it the people you talk to? is it the things you d
 	- lots of negative inside the axon 
 	- the nueron is polarized 
 	- the charge difference between the isnide and out the soude is $-70mV$ 
-	- 
+
+# Shitapses fuck you
+- synapses are the spaces between two nuerons trying to get a message across 
+- impulse has to jump the synapse 
+- action potenitoal moves down and  axon, which releases nuerotransimtors, which docks with gates on the other side which leads to actioan potential to the other nueron 
+- elecrtical enspe is just move the action potential down no problem (very fast) (no control) 
+- chemical synapse are better ongod 
+- presynaptic nueron and postsynaptic nueron is self explonatiry 
+- the gap inbetween is called the synaptic cleft
+- inside the presynaptic nueron there is presynaptic vesicles, which contain nuerotransmitters. there are also voltage-gated channels and docking protiens on the preseynpatic side 
+- on the post snyecptic side there are recptors for the nuerotransimtters 
+- the action potential opens that calcuim channels, which will dock with the nuerotransimmter vesicles, which will then take it to the docking protiens on the preseynaptic side 
+- the vesicles dump it into the senaptic clef, which the recepters receive 
+- acitaon potential is the threshold of -55 mV
+		- 
