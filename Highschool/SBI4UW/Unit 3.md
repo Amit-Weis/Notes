@@ -31,7 +31,7 @@
 - they let the bacteria split in the lighter nitrogen, they saw that all of the DNA is now in the middle of the beaker 
 - then again, now the centrifuged solution had two bands
 - image diagram
-	- ![](../images/dna%20replication.png)
+	- ![](../../images/dna%20replication.png)
 - DNA runs anti-parallel to each other, 5 is the end with the phosphate, 3 is the end with the hydroxide, so a strand runs 5 to 3 or 3 to 5 depending on your perspective
 - the enzyme responsible for unzipping the double helix is called $\text{DNA Helicase}$ 
 	- it breaks the hydrogen bonds between the bases 
@@ -39,7 +39,7 @@
 	- this new unzipped formation is called the replication fork 
 - $\text{DNA Gyrase}$ or $\text{DNA topisomerase}$ (same thing diff name) will make little cuts just infront of the helicase, to unwind the dna, and let the dna unzip in a flat formation
 - note that this happens in multiple points in the dna at once
-	- ![](../images/dna%20replciation%20bulslhit.png)
+	- ![](../../images/dna%20replciation%20bulslhit.png)
 - nucleotides are added by $\text{DNA polymerases 3}$ 
 	- polymerase can only add nucleotides to the 3 end of the dna (the hydroxide group)
 	- the new strands will always be assembled in the 5 to 3 direction, because off this restriction
@@ -50,11 +50,11 @@
 	- the chunks of the lagging strands built in, are called in Okazaki fragments 
 	- the lagging strand is made discontinuously
 	- Lagging strand vs leading strand
-		- ![](../images/dna%20is%20being%20replicated%20i%20think.png)
+		- ![](../../images/dna%20is%20being%20replicated%20i%20think.png)
 - $DNA$ $Pol$ $1$ removes the $primers$ and replaces them with DNA
 - $DNA$ $Ligase$ then joins the gaps in the sugar backbone
 - note that a strand is bothing leading and lagging at the same time 
-	- ![](../images/stupid%20ullshit.png)
+	- ![](../../images/stupid%20ullshit.png)
 - both $Polymerase$ 1 and 3 proofread the complemntary strands, and remove incorreclty paried nucleotides and replace them with the correct ones 
 - Exonucleases ($polymerase$) are enzymes that work by cleaving nucleotides one at a time from the end
 - $deoxyribonucleoside$ $triphosphates$ is just a nucleotide with an ATP attached, and once the ATP is turned into ADP to form energy, 
@@ -89,7 +89,7 @@
 - our genes have ways of communicating whether we need a gene to be transcribed and translated
 - the lac operon in bacteria controls the enzyme that breaks down lactose (prokaryotes only)
 - Operons are the following:
-	- ![](../images/dna%20bacteria.png)
+	- ![](../../images/dna%20bacteria.png)
 
 
 # This is on the test fuck face
@@ -122,7 +122,7 @@
 - Frameshift mutations 
 	- deletion of base pairs not in multiples of 3 (1 or 2), will cause the chain after to shift the whole dna strand
 	- this will change every single codon (the T of THE is removed)
-		- ![](../images/codon%20changing%20heheh.png)
+		- ![](../../images/codon%20changing%20heheh.png)
 - Other mutations can occur on the chromosomes during mitosis or meiosis
 - 4 types of chromosomal mutations 
 	- deletion, loss of a part of a chromosome
@@ -130,7 +130,7 @@
 	- inversion, reverses direction of part of chromosome 
 	- translocation, part of one attaches to another chromosomes
 	- image visual
-		- ![](../images/chromosome%20bullshit%20i%20think.png)
+		- ![](../../images/chromosome%20bullshit%20i%20think.png)
 - causes of mutation 
 	- spontanous mutations, dna failing to copuyu
 	- mutagenic agents (chemicals or radation or wtv

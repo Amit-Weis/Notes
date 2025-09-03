@@ -27,7 +27,7 @@
 	- Adenosine Triphosphate
 	- similar to nucleotides and is a nucleic acid
 	- good for short term energy usage (not for storage)
-	- ![](../images/atp%20diagram.png)
+	- ![](../../images/atp%20diagram.png)
 - ATP can be "hydrolyzed" and lose one of its phosphate and forms ADP and releases energy. the phosphate then bonds to another molecule to give it energy
 - then you can add another phosphate to ADP to form another ATP
 - when a phosphate is transferred to another molecule the other molecule is called phosphorylated 
@@ -39,7 +39,7 @@
 	- oxidation releases electron, reduction gains electron
 	- if something lost an electron, something must gain an electron
 	- electrons will be passed along with the following loops like so:
-		- ![](../images/electronchain.png)
+		- ![](../../images/electronchain.png)
 - Hydrogen Acceptors
 	- Coenzymes, they help reactions involving enzymes
 	- $NAD^+$ or $FAD^+$ are coenzymes in an oxidized form
@@ -48,7 +48,7 @@
 - one cycle of cellular respiration will produce 38 moles of ATP, with a majority being from the electron transport system 
 - in eukaryotic cells, stage 1 occurs in the cytosol. the rest of the stages occur in the mitochondrion 
 - structure of the mitochondrion:
-	- ![](../images/powerhouseofcellstructure.png)
+	- ![](../../images/powerhouseofcellstructure.png)
 	- Matrix, tons of enzymes molecules, neutrons etc are floating in there, this is where electron transport happens. the folds in the matrix (cristae) increase the surface area
 	- inner membrane, tons of enzyme complexes which produce atp (called stalked particles)
 

@@ -15,7 +15,7 @@
 		- the earths "North pole" is actually a southpole, as it attracts the north end of the compass
 - ### Origin of magnetic fields
 	- current creates centipedal magnetic fields
-		- ![](../../images/currentmagnetforcefr.png)
+		- ![](../../../images/currentmagnetforcefr.png)
 	- bassicly the borh model of the atom shows electrons orbiting the nucleas
 	- therefore since electrons are chargins and they are moving, thats bassicly currrent, and current generates a magnetic field 
 	- most of these magnetic fields causes by the electrons moving is cancled out (cause average random vector is 0)
@@ -24,7 +24,7 @@
 	- this dpiloe will cause a magnetic field to be producted by the object, and that vector is called the magnetic dipole moment 
 	- each group of moments is called a magnetic domain, and in each domain each atom has the the same vector
 	- image is of a non magnetic material and a magnetic material
-		- ![](../../images/magnetdomains.png)
+		- ![](../../../images/magnetdomains.png)
 	- three types of magneitc materials:
 		- Ferromagnetic
 			- these mateirals can be permantly magntized by the applciation of a field 
@@ -35,7 +35,7 @@
 		- 
 ## Direction of a magnetnic field due to a current carrying wire
 - Right hand grip rule:
-	- ![](../../images/righthandgriprule.png)
+	- ![](../../../images/righthandgriprule.png)
 - at any given point on this circle, the magnetic field vector is the tangent of the circle
 - vector addition to find the magneitc field vector with mutliple charges
 - the symbol of a magnetic field is $B$ and the unit is Tesla, where $T = \frac{N}{A\cdot m}$

@@ -6,7 +6,7 @@
 3. Which compound both enters and leaves? Are there any changes made to it?
     - $H_2O$, goes from $_{(liquid)}$ to $_{(gas)}$ 
 4. Labeled Diagram for a plant leaf
-	- ![](../images/plant%20uh%20leave%20diagram%20labled%20ongod%20ongod%20ongod.png)
+	- ![](../../images/plant%20uh%20leave%20diagram%20labled%20ongod%20ongod%20ongod.png)
 5. What type of cells have chloroplasts?
 	- Palisade mesophyll, some in the spongy, but not as much
 6. Through which layers does light travel to reach the palisade mesophyll? What does that mean about those layers?
@@ -24,7 +24,7 @@
 	- there are other pigments present
 - chlorophyll is the main pigment, and it will absorb the energy from the light to split water 
 - labeled diagram of a chloroplasts
-	- ![](../images/cholroplast%20labled%20diagram%20ongod.png)
+	- ![](../../images/cholroplast%20labled%20diagram%20ongod.png)
 - a photosynthetic pigment is a colored biological compound that is present in chloroplasts and photosynthetic bacteria
 - the 2 types of photosynthetic pigments plants are chlorophylls (green) and carotenoids (yellow/orange)
 - and there is one type of protective pigments, called anthocyanins (red/purple/blue)
@@ -32,7 +32,7 @@
 	- Note the magnesium core 
 	- note the ester/phytol tail
 	- note that it is made up of various ring structures that contain nitrogen
-	- ![](../images/cholrophyll%20molucle.png)
+	- ![](../../images/cholrophyll%20molucle.png)
 - plants use energy from the visible region, 400-710 nm 
 - pigment molecules occur in clusters called photosystems (see tomorrow's note)
 	- photosystem is a large clump of pigments, and then the light can hit only one pigment of the system, and then the charged electrons can move around across the system to the end goal
@@ -42,11 +42,11 @@
 	- he then split the light into colors using a prism 
 	- and then shone it onto the spirogyra with some aerobic bacteria around it, to see where the bacteria move to (they will try to find the highest concentration of $O_2$)
 	- he then got results like this, where the black dots are bacteria:
-	- ![](../images/experiment.png)
+	- ![](../../images/experiment.png)
 	- where the bacteria survive, is where oxygen is most produced, meaning that really short and really long wavelengths are absorbed, and greens is basically unused and therefore reflected back
 - Plant pigments absorb red and blue light, every other color is reflected (which is mainly green) 
 	- absorption spectra:
-	  ![](../images/absorptionspectra.png)
+	  ![](../../images/absorptionspectra.png)
 - in color temperatures chlorophyll is destroyed, and so the more different light is reflected and the absorption spectra changes, and therefore the color changes
 - 
 
@@ -128,15 +128,15 @@
 	- P680 = photosystem 2, and P700 = photosystem 1
 	- lightning bolt = sunlight energy
 	- the ADP $\to$ ATP is actually an ETC
-	- Diagram of the ETC, notice how its the reverse of a animals ETC![](../images/real%20plant%20etc.png)
-	- $NADP^+$ is the final electron acceptor, this is also still a ETC ![](../images/zschemephotopohsoryalriebnasdouigoabsuidb.png)
+	- Diagram of the ETC, notice how its the reverse of a animals ETC![](../../images/real%20plant%20etc.png)
+	- $NADP^+$ is the final electron acceptor, this is also still a ETC ![](../../images/zschemephotopohsoryalriebnasdouigoabsuidb.png)
 	- 
 
 - Cyclic photophosphorylation
 	- only ATP is produced
 	- if the plant needs more ATP, or $NADP^+$ is in short supply, it will enter cyclic photophosphorylation (think lactic acid in animal cells)
 	- the plant doesn't stay here for long, because it needs the products from z-scheme to make glucose in Calvin's cycle
-	- ![](../images/noncylcic.png)
+	- ![](../../images/noncylcic.png)
 - 
 
 # Factors Affecting Photosynthesis
@@ -153,7 +153,7 @@
 	- amount of light, temperature, $[CO_2]$, etc
 	- if you increase one thing you increase the consumption of the other things 
 - at high light levels, sun plants will have a higher ROP, and at low light levels shade plants will have a higher ROP
-	- ![](../images/sunshadeplantgraph.png)
+	- ![](../../images/sunshadeplantgraph.png)
 
 
 # Review 

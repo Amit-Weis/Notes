@@ -38,34 +38,34 @@
 	- Formed when many monosaccharides link up to form a long chain 
 	- ideal for storing energy long term, as they are easily broken and then built up again
 	- common examples include starch, glycogen, amylose, amylopectin and cellulose 
-	- ![](../images/carbohydratetypes.png)
+	- ![](../../images/carbohydratetypes.png)
 	- any straight chains made up of $\alpha$-glucose are formed from 1-glycosidic bonds, and any branches are formed initially by a 1-6 glycosidic bond
 	- glycogen
 		- insoluble
 		- very branched
 		- good for storage
 		- found in animals and some fungi
-		- ![](../images/glycogen.png)
+		- ![](../../images/glycogen.png)
 	- Amylose
 		- spiral structure
 		- unbranched
 		- hard to break down
-		- ![](../images/amylose.png)
+		- ![](../../images/amylose.png)
 	- Amylopectin
 		- branched structure 
 		- can be broken down much more rapidly
-		- ![](../images/amylopectin.png)
+		- ![](../../images/amylopectin.png)
 	- Cellulose
 		- Structural components of plant cell walls
 		- made up of $\beta$-glucose
-		- ![](../images/cellulose.png)
+		- ![](../../images/cellulose.png)
 	- chitin
 		- just cellulose but also has nitrogen in the monomer 
 ## Proteins
 - found everywhere in the body, but some examples include: nails, hair, muscles, hormones, enzymes, channels, blood, etc...
 - Proteins are very large macromolecules and are made of long chains of amino acids
 - Amino acids
-	- ![](../images/amino%20acids.png)
+	- ![](../../images/amino%20acids.png)
 	- there are 20 unique amino acids needed to make all the proteins humans need
 	- 9 of them are not produced in the body, meaning they are essential and therefore must be eaten
 	- will form together by peptide bonds into polypeptides (proteins)
@@ -73,7 +73,7 @@
 	- you can break down polypeptides in hydrolysis reactions
 - almost every protein we deal with will start its chain with methionine
 - a polypeptide is not a protein, as there are 4 levels to protein structure
-	- ![](../images/protien%20structure.png)
+	- ![](../../images/protien%20structure.png)
 	- the $\alpha$-helices and the $\beta$-sheets are formed via hydrogen bonds (don't let banit fool you)
 - proteins get their function from their shape (think enzymes)
 - an example of protein shape affecting things is sickle cell anaemia, which causes the hemoglobin in blood cells to cause them to deform
@@ -88,7 +88,7 @@
 	- provides structure everywhere
 - Fats and oils are a group of lipids which are generally triglycerides
 - triglycerides are made from one glycerol molecule and three other things
-	- ![](../images/glycerol.png)
+	- ![](../../images/glycerol.png)
 - condensation reactions form ester linkages in between the glycerol and its fatty acid chains
 - phospholipids are triglycerides but they just have a phosphate group as well instead of a third fatty acid
 	- this causes the unique property of being both hydrophilic and hydrophobic at the same time
@@ -142,18 +142,18 @@
 		- increased temp = increased rate until the optimum temperature is reached 
 		- more kinetic energy = more collision = more ROR
 		- increasing the temperature past the optimum point induces a loss of the enzyme's shape causing protein denaturation 
-		- ![](../images/tempearturegraphforenzymes.png)
+		- ![](../../images/tempearturegraphforenzymes.png)
 	- PH
 		- enzymes function over a narrow pH range 
 		- when ph is altered, ionic bonding is disrupted, causes change in 3D shape, denaturation 
-		- ![](../images/phinenzymes.png)
+		- ![](../../images/phinenzymes.png)
 	- Substrate concentration
 		- as the substrate concentration, the initial rate increases linearly
 		- eventually the enzymes active sites are all occupied, and the max throughput is reached, thus the rate can only be increased by adding more enzymes
-		- ![](../images/substrateconcnetrationinenzymes.png)
+		- ![](../../images/substrateconcnetrationinenzymes.png)
 	- enzyme concentration
 		- if the substrate concentration is maintained, the rate of reaction will increase linearly in relation to the concentration of enzymes
-		- ![](../images/enzymesvsacitivty.png)
+		- ![](../../images/enzymesvsacitivty.png)
 - Enzymes have two models,
 	- the lock and key model which is not widely accepted
 		- each enzyme has a complementary shape of the substrate and both dont change
@@ -167,7 +167,7 @@
 			- will bind to a site other then the active site and will block enzyme function physically or 
 			- allosteric inhibitors will block enzyme function by altering the shape
 - often, the last step of a reaction will act as inhibitors for the earlier steps to avoid over saturating the cell with unnecessary products
-	- ![](../images/enzymesbeingprettysmart.png)
+	- ![](../../images/enzymesbeingprettysmart.png)
 
 ## Cell membrane 
 - cell membranes control what goes in and out of the cell 
@@ -213,9 +213,9 @@
 	- the sodium and potassium pumps use the energy from the high concentration sodium moving to the low concentration sodium to move the potassium, but it's still not sufficient so it still requires atp
 - enzymes move through exocytosis 
 - summery
-	- ![](../images/transport%20summery.png)
+	- ![](../../images/transport%20summery.png)
 - simple diffusion will linearly increase as concentration increases, but facilitated diffusion will follow a root x curve, due to the throughput of the pumping proteins being reached 
-	- ![](../images/protienrateoftranposrt.png)
+	- ![](../../images/protienrateoftranposrt.png)
 - hypotonic
 	- cell expands due to high concentration of solute inside the cell causing water to move in
 - isotonic

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPH4UW/Unit 5/Unit 5 - Waves.md",
+                "file": "MTE 121/Chapter 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 5 - Waves"
+              "title": "Chapter 2"
             }
           }
         ]
@@ -176,16 +176,20 @@
   },
   "active": "37c93b11c3a121bd",
   "lastOpenFiles": [
-    "SPH4UW/Unit 1/Unit 1- Thermodynamics.md",
-    "SPH4UW/Unit 3/Unit 3- Circuits.md",
-    "SPH4UW/Unit 4/Unit 4 - magnets.md",
-    "SPH4UW/Unit 5/Unit 5 - Waves.md",
-    "SPH4UW/Unit 6/Unit 6 - Modern Physics.md",
-    "SBI4UW/Unit 4.md",
-    "SBI4UW/Unit 3.md",
-    "SBI4UW/Unit 2.5.md",
-    "SBI4UW/Unit 2.md",
-    "SBI4UW/Unit 1.md",
+    "MTE 121/Chapter 1.md",
+    "MTE 121/Chapter 2.md",
+    "Highschool/SPH4UW/Unit 5/Unit 5 - Waves.md",
+    "Highschool",
+    "MTE 121",
+    "Highschool/SPH4UW/Unit 1/Unit 1- Thermodynamics.md",
+    "Highschool/SPH4UW/Unit 3/Unit 3- Circuits.md",
+    "Highschool/SPH4UW/Unit 4/Unit 4 - magnets.md",
+    "Highschool/SPH4UW/Unit 6/Unit 6 - Modern Physics.md",
+    "Highschool/SBI4UW/Unit 4.md",
+    "Highschool/SBI4UW/Unit 3.md",
+    "Highschool/SBI4UW/Unit 2.5.md",
+    "Highschool/SBI4UW/Unit 2.md",
+    "Highschool/SBI4UW/Unit 1.md",
     "images/chromosome bullshit i think.png",
     "images/codon changing heheh.png",
     "images/dna bacteria.png",
@@ -194,23 +198,22 @@
     "images/dna replciation bulslhit.png",
     "images/dna replication.png",
     "images/dnadiffraction.png",
-    "SPH4UW/Unit 6",
+    "Highschool/SPH4UW/Unit 6",
     "images/sunshadeplantgraph.png",
-    "SPH4UW/Unit 2/The Secret Calc Part of Physics.md",
-    "SPH4UW/Unit 2/Unit 2- Electricity.md",
+    "Highschool/SPH4UW/Unit 2/The Secret Calc Part of Physics.md",
+    "Highschool/SPH4UW/Unit 2/Unit 2- Electricity.md",
     "images/noncylcic.png",
     "image 10.png.md",
     "images/Monthly Budget.md",
     "SPH4UW/SPH 4UW - Course Notes.md",
-    "SPH4UW/Unit 5",
-    "SPH4UW/Unit 4",
+    "Highschool/SPH4UW/Unit 5",
+    "Highschool/SPH4UW/Unit 4",
     "SPH4UW/Unit 3/Untitled.md",
-    "SBI4UW",
-    "SPH4UW/Unit 3",
+    "Highschool/SBI4UW",
+    "Highschool/SPH4UW/Unit 3",
     "SPH 4UW - Course Notes/Unit 2- Electricity/index.html",
     "electric_potential_energy.html",
     "image.png.crswap",
-    "images",
     "Getting Started.md",
     "2025-02-24.md",
     "Monthly Budget/Expenses (Monthly)/Dinner with Rachel.md",
@@ -219,9 +222,6 @@
     "Monthly Budget/Income (Monthly)/Side Gig.md",
     "Monthly Budget/Income (Monthly)/Salary.md",
     "Monthly Budget/Income (Monthly)/Bday Cash.md",
-    "Weekly To-do List.md",
-    "SPH4UW/Unit 2",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }

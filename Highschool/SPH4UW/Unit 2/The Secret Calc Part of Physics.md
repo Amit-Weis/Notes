@@ -9,7 +9,7 @@ lets start with the intuitive definition
 an integral essentially represents the area under a graph
 
 a little bit more specifically, it can be thought of as an approximation of the sum of the area small rectangles under a graph, where our approximation gets more and more accurate as the rectangles get smaller and smaller
-![](../../images/first.png)
+![](../../../images/first.png)
 
 basic geometry level, the area of one individual rectangle can be represented as $Area \ = \ Height \cdot Length$ 
 
@@ -34,7 +34,7 @@ Finding the antiderivative is just finding $g(x)$ where $g\prime (x) = f(x)$, an
 Example: $x^2$ is the integral or antiderivative of $2x$
 
 additionally, if we want the area over just a small segment of the graph, we can do something called a definite integral as shown below:
-![second](../../images/second.png)
+![second](../../../images/second.png)
 
 lets define $q(x)$ as the antiderivative or integral of the above function $f(x)$
 remember $q(x)$ = a running total of the area from $0 \to x$
@@ -46,9 +46,9 @@ $$
 # Why do we care + Work
 
 As we learned last year in physics, work is the force $\vec F$ done over distance $x$, which is all well and good for graphs like the one below, where calculating the work done is a simple area calculation. 
-![third](../../images/third.png)
+![third](../../../images/third.png)
 
-But... what happens when you need to calculate  the work done for the following Force over distance graph:![fourtgh](../../images/fourtgh.png)
+But... what happens when you need to calculate  the work done for the following Force over distance graph:![fourtgh](../../../images/fourtgh.png)
 
 we need definite Integrals!!!!!
 
@@ -78,7 +78,7 @@ Since work is energy transferred, when the field does work, energy must go somew
 # Finally back to Electric Potential Energy 
 now we know everything to prove that $U_{E} =\frac{kQq}{r}$ 
 lets say we have charge $Q$ which is **Positive** and charge $q$ which is **Negative**
-![fit](../../images/fit.png)
+![fit](../../../images/fit.png)
 
 $q$ will be attracted to $Q$, and therefore the Electric Field of $Q$ is doing **Positive** work on $q$
 

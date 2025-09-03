@@ -69,14 +69,14 @@ $$
 ---
 - see [Unit 2- Electricity](../Unit%202/Unit%202-%20Electricity.md) 
 - Consider this circuit: 
-	- ![](../../images/circuit.png)
+	- ![](../../../images/circuit.png)
 - if the circuit is turned on this will be the electron flow:
-	- ![](../../images/circuiton.png)
+	- ![](../../../images/circuiton.png)
 - after a while the capicator will fully charge, and its charge will be equal and oppisite to  to the battery that charged it, and it fully oppposes the current causing electron flow to stop
-	- ![](../../images/circuitoff.png)
+	- ![](../../../images/circuitoff.png)
 - therefore the voltage is the highest when the capicator is the least charged
 - lets make an alaternative path, and then electron can flow, to discharge the capicitor
-	- ![](../../images/currentbutincurrent.png)
+	- ![](../../../images/currentbutincurrent.png)
 - circuits with multiple capicators can be rewerriten as a single capicator like reistors
 - this is called finding the equivlelince capicatoonce
 - capicance are oppsite to resitsers in actuall calcualtion where

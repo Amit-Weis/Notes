@@ -1,0 +1,31 @@
+- Main hardware Component Categories (secretly complicated)
+	- central processing unit 
+		- comprised of 
+			- the control unit
+				- where code/data goes
+			- ALU 
+				- actually does the shit
+				- has circuits that do shit
+				- control unit sends data, ALU returns 
+	- main memory (volatile memory)
+		- ram (clears when off)
+		- the fastest
+	- secondary memory 
+		- rom (stays)
+		- stores program before they are run (ssd or harddrive or whatever)
+		- slower
+	- input devices
+	- output devices
+- types of software
+	- system software
+		- software that runs software
+	- application software
+		- software that softwares
+- process to actually run code 
+	- preprocessor
+		- source -> modifed source code (replacae \#include and stuff with what they represent)
+	- compiler
+		- modified source code -> almost executable
+	- linker 
+		- get instructions from os to actually exec the code 
+- 
