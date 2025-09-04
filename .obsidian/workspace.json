@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MTE 121/Chapter 2.md",
+                "file": "MTE 100/First lesson.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2"
+              "title": "First lesson"
             }
           }
         ]
@@ -176,8 +176,10 @@
   },
   "active": "37c93b11c3a121bd",
   "lastOpenFiles": [
-    "MTE 121/Chapter 1.md",
     "MTE 121/Chapter 2.md",
+    "MTE 100/First lesson.md",
+    "MTE 100",
+    "MTE 121/Chapter 1.md",
     "Highschool/SPH4UW/Unit 5/Unit 5 - Waves.md",
     "Highschool",
     "MTE 121",
@@ -213,7 +215,6 @@
     "Highschool/SPH4UW/Unit 3",
     "SPH 4UW - Course Notes/Unit 2- Electricity/index.html",
     "electric_potential_energy.html",
-    "image.png.crswap",
     "Getting Started.md",
     "2025-02-24.md",
     "Monthly Budget/Expenses (Monthly)/Dinner with Rachel.md",
@@ -221,7 +222,6 @@
     "Monthly Budget/Expenses (Monthly)/Rent.md",
     "Monthly Budget/Income (Monthly)/Side Gig.md",
     "Monthly Budget/Income (Monthly)/Salary.md",
-    "Monthly Budget/Income (Monthly)/Bday Cash.md",
     "Untitled.canvas"
   ]
 }
